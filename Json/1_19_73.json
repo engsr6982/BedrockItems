@@ -1,0 +1,9946 @@
+[
+	{
+		"name": "橡木板",
+		"type": "minecraft:planks",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "云杉木板",
+		"type": "minecraft:planks",
+		"id": null,
+		"aux": 1,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "白桦木板",
+		"type": "minecraft:planks",
+		"id": null,
+		"aux": 2,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "丛林木板",
+		"type": "minecraft:planks",
+		"id": null,
+		"aux": 3,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "金合欢木板",
+		"type": "minecraft:planks",
+		"id": null,
+		"aux": 4,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "深色橡木木板",
+		"type": "minecraft:planks",
+		"id": null,
+		"aux": 5,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "红树林木板",
+		"type": "minecraft:mangrove_planks",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "绯红木板",
+		"type": "minecraft:crimson_planks",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "诡异木板",
+		"type": "minecraft:warped_planks",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "圆石墙",
+		"type": "minecraft:cobblestone_wall",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "苔藓圆石墙",
+		"type": "minecraft:cobblestone_wall",
+		"id": null,
+		"aux": 1,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "花岗岩墙",
+		"type": "minecraft:cobblestone_wall",
+		"id": null,
+		"aux": 2,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "闪长岩墙",
+		"type": "minecraft:cobblestone_wall",
+		"id": null,
+		"aux": 3,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "安山岩墙",
+		"type": "minecraft:cobblestone_wall",
+		"id": null,
+		"aux": 4,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "砂岩墙",
+		"type": "minecraft:cobblestone_wall",
+		"id": null,
+		"aux": 5,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "红砂岩墙",
+		"type": "minecraft:cobblestone_wall",
+		"id": null,
+		"aux": 12,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "石砖墙",
+		"type": "minecraft:cobblestone_wall",
+		"id": null,
+		"aux": 7,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "苔石砖墙",
+		"type": "minecraft:cobblestone_wall",
+		"id": null,
+		"aux": 8,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "砖墙",
+		"type": "minecraft:cobblestone_wall",
+		"id": null,
+		"aux": 6,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "下届砖墙",
+		"type": "minecraft:cobblestone_wall",
+		"id": null,
+		"aux": 9,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "红色下届砖墙",
+		"type": "minecraft:cobblestone_wall",
+		"id": null,
+		"aux": 13,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "末地石砖墙",
+		"type": "minecraft:cobblestone_wall",
+		"id": null,
+		"aux": 10,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "海晶石墙",
+		"type": "minecraft:cobblestone_wall",
+		"id": null,
+		"aux": 11,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黑石墙",
+		"type": "minecraft:blackstone_wall",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "磨制黑色墙",
+		"type": "minecraft:polished_blackstone_wall",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "磨制黑石砖墙",
+		"type": "minecraft:polished_blackstone_brick_wall",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "深板岩圆石墙",
+		"type": "minecraft:cobbled_deepslate_wall",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "深板岩瓦墙",
+		"type": "minecraft:deepslate_tile_wall",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "磨制深板岩墙",
+		"type": "minecraft:polished_deepslate_wall",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "深板岩砖墙",
+		"type": "minecraft:deepslate_brick_wall",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "泥砖墙",
+		"type": "minecraft:mud_brick_wall",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "橡木栅栏",
+		"type": "minecraft:fence",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "云杉栅栏",
+		"type": "minecraft:fence",
+		"id": null,
+		"aux": 1,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "白桦木栅栏",
+		"type": "minecraft:fence",
+		"id": null,
+		"aux": 2,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "丛林木栅栏",
+		"type": "minecraft:fence",
+		"id": null,
+		"aux": 3,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "金合欢栅栏",
+		"type": "minecraft:fence",
+		"id": null,
+		"aux": 4,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "深色橡木栅栏",
+		"type": "minecraft:fence",
+		"id": null,
+		"aux": 5,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "红树林栅栏",
+		"type": "minecraft:mangrove_fence",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "下届砖栅栏",
+		"type": "minecraft:nether_brick_fence",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "绯红栅栏",
+		"type": "minecraft:crimson_fence",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "诡异木栅栏",
+		"type": "minecraft:warped_fence",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "橡木栅栏门",
+		"type": "minecraft:fence_gate",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "云杉栅栏门",
+		"type": "minecraft:spruce_fence_gate",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "白桦木栅栏门",
+		"type": "minecraft:birch_fence_gate",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "丛林木栅栏门",
+		"type": "minecraft:jungle_fence_gate",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "金合欢栅栏门",
+		"type": "minecraft:acacia_fence_gate",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "深色橡木栅栏门",
+		"type": "minecraft:dark_oak_fence_gate",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "红树林栅栏门",
+		"type": "minecraft:mangrove_fence_gate",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "绯红栅栏门",
+		"type": "minecraft:crimson_fence_gate",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "诡异木栅栏门",
+		"type": "minecraft:warped_fence_gate",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "石质楼梯",
+		"type": "minecraft:normal_stone_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "圆石楼梯",
+		"type": "minecraft:stone_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "苔石楼梯",
+		"type": "minecraft:mossy_cobblestone_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "橡木楼梯",
+		"type": "minecraft:oak_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "云杉木楼梯",
+		"type": "minecraft:spruce_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "白桦木楼梯",
+		"type": "minecraft:birch_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "丛林木楼梯",
+		"type": "minecraft:jungle_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "金合欢木楼梯",
+		"type": "minecraft:acacia_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "深色橡木楼梯",
+		"type": "minecraft:dark_oak_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "红树林楼梯",
+		"type": "minecraft:mangrove_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "石砖楼梯",
+		"type": "minecraft:stone_brick_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "苔石楼梯",
+		"type": "minecraft:mossy_stone_brick_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "砂岩楼梯",
+		"type": "minecraft:sandstone_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "平滑砂岩楼梯",
+		"type": "minecraft:smooth_sandstone_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "红砂岩楼梯",
+		"type": "minecraft:red_sandstone_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "平滑红砂岩楼梯",
+		"type": "minecraft:smooth_red_sandstone_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "花岗岩楼梯",
+		"type": "minecraft:granite_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "磨制花岗岩楼梯",
+		"type": "minecraft:polished_granite_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "闪长岩楼梯",
+		"type": "minecraft:diorite_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "磨制闪长岩楼梯",
+		"type": "minecraft:polished_diorite_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "安山岩楼梯",
+		"type": "minecraft:andesite_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "磨制安山岩楼梯",
+		"type": "minecraft:polished_andesite_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "砖楼梯",
+		"type": "minecraft:brick_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "下届砖楼梯",
+		"type": "minecraft:nether_brick_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "红色下届砖楼梯",
+		"type": "minecraft:red_nether_brick_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "末地石砖楼梯",
+		"type": "minecraft:end_brick_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "石英楼梯",
+		"type": "minecraft:quartz_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "平滑石英楼梯",
+		"type": "minecraft:smooth_quartz_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "紫珀楼梯",
+		"type": "minecraft:purpur_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "海晶石楼梯",
+		"type": "minecraft:prismarine_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "暗海晶石楼梯",
+		"type": "minecraft:dark_prismarine_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "海晶石砖楼梯",
+		"type": "minecraft:prismarine_bricks_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "绯红楼梯",
+		"type": "minecraft:crimson_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "诡异楼梯",
+		"type": "minecraft:warped_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黑石楼梯",
+		"type": "minecraft:blackstone_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "磨制黑石楼梯",
+		"type": "minecraft:polished_blackstone_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "磨制黑石砖楼梯",
+		"type": "minecraft:polished_blackstone_brick_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "切制铜块楼梯",
+		"type": "minecraft:cut_copper_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "外漏切制铜块楼梯",
+		"type": "minecraft:exposed_cut_copper_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "风化切制铜块楼梯",
+		"type": "minecraft:weathered_cut_copper_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "氧化切制铜块楼梯",
+		"type": "minecraft:oxidized_cut_copper_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "涂蜡切制铜块楼梯",
+		"type": "minecraft:waxed_cut_copper_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "斑驳的涂蜡切制铜块楼梯",
+		"type": "minecraft:waxed_exposed_cut_copper_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "锈蚀的涂蜡切制铜块楼梯",
+		"type": "minecraft:waxed_weathered_cut_copper_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "氧化的涂蜡切制铜块楼梯",
+		"type": "minecraft:waxed_oxidized_cut_copper_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "深板岩岩石楼梯",
+		"type": "minecraft:cobbled_deepslate_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "深板岩瓦楼梯",
+		"type": "minecraft:deepslate_tile_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "磨制深板岩楼梯",
+		"type": "minecraft:polished_deepslate_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "深板岩砖楼梯",
+		"type": "minecraft:deepslate_brick_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "泥砖楼梯",
+		"type": "minecraft:mud_brick_stairs",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "橡木门",
+		"type": "minecraft:wooden_door",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": "textures/items/door_wood.png"
+	},
+	{
+		"name": "云杉木门",
+		"type": "minecraft:spruce_door",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": "textures/items/door_spruce.png"
+	},
+	{
+		"name": "白桦木门",
+		"type": "minecraft:birch_door",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": "textures/items/door_birch.png"
+	},
+	{
+		"name": "丛林木门",
+		"type": "minecraft:jungle_door",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": "textures/items/door_jungle.png"
+	},
+	{
+		"name": "金合欢木门",
+		"type": "minecraft:acacia_door",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": "textures/items/door_acacia.png"
+	},
+	{
+		"name": "深色橡木木门",
+		"type": "minecraft:dark_oak_door",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": "textures/items/door_dark_oak.png"
+	},
+	{
+		"name": "红树林门",
+		"type": "minecraft:mangrove_door",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "铁门",
+		"type": "minecraft:iron_door",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": "textures/items/door_iron.png"
+	},
+	{
+		"name": "绯红门",
+		"type": "minecraft:crimson_door",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "诡异门",
+		"type": "minecraft:warped_door",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "橡木活板门",
+		"type": "minecraft:trapdoor",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "云杉木活板门",
+		"type": "minecraft:spruce_trapdoor",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "白桦木活板门",
+		"type": "minecraft:birch_trapdoor",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "丛林木活板门",
+		"type": "minecraft:jungle_trapdoor",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "金合欢木活板门",
+		"type": "minecraft:acacia_trapdoor",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "深色橡木活板门",
+		"type": "minecraft:dark_oak_trapdoor",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "红树林活板门",
+		"type": "minecraft:mangrove_trapdoor",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "铁活板门",
+		"type": "minecraft:iron_trapdoor",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "绯红活板门",
+		"type": "minecraft:crimson_trapdoor",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "诡异木活板门",
+		"type": "minecraft:warped_trapdoor",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "铁栏杆",
+		"type": "minecraft:iron_bars",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "玻璃",
+		"type": "minecraft:glass",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "白色玻璃",
+		"type": "minecraft:stained_glass",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "淡灰色玻璃",
+		"type": "minecraft:stained_glass",
+		"id": null,
+		"aux": 8,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "灰色玻璃",
+		"type": "minecraft:stained_glass",
+		"id": null,
+		"aux": 7,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黑色玻璃",
+		"type": "minecraft:stained_glass",
+		"id": null,
+		"aux": 15,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "棕色玻璃",
+		"type": "minecraft:stained_glass",
+		"id": null,
+		"aux": 12,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "红色玻璃",
+		"type": "minecraft:stained_glass",
+		"id": null,
+		"aux": 14,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "橙色玻璃",
+		"type": "minecraft:stained_glass",
+		"id": null,
+		"aux": 1,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黄色玻璃",
+		"type": "minecraft:stained_glass",
+		"id": null,
+		"aux": 4,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黄绿色玻璃",
+		"type": "minecraft:stained_glass",
+		"id": null,
+		"aux": 5,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "绿色玻璃",
+		"type": "minecraft:stained_glass",
+		"id": null,
+		"aux": 13,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "青色玻璃",
+		"type": "minecraft:stained_glass",
+		"id": null,
+		"aux": 9,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "淡蓝色玻璃",
+		"type": "minecraft:stained_glass",
+		"id": null,
+		"aux": 3,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "蓝色玻璃",
+		"type": "minecraft:stained_glass",
+		"id": null,
+		"aux": 11,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "紫色玻璃",
+		"type": "minecraft:stained_glass",
+		"id": null,
+		"aux": 10,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "品红色玻璃",
+		"type": "minecraft:stained_glass",
+		"id": null,
+		"aux": 2,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "粉红色玻璃",
+		"type": "minecraft:stained_glass",
+		"id": null,
+		"aux": 6,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "遮光玻璃",
+		"type": "minecraft:tinted_glass",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "玻璃板",
+		"type": "minecraft:glass_pane",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "白色玻璃板",
+		"type": "minecraft:stained_glass_pane",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "淡灰色玻璃板",
+		"type": "minecraft:stained_glass_pane",
+		"id": null,
+		"aux": 8,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "灰色玻璃板",
+		"type": "minecraft:stained_glass_pane",
+		"id": null,
+		"aux": 7,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黑色玻璃板",
+		"type": "minecraft:stained_glass_pane",
+		"id": null,
+		"aux": 15,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "棕色玻璃板",
+		"type": "minecraft:stained_glass_pane",
+		"id": null,
+		"aux": 12,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "红色玻璃板",
+		"type": "minecraft:stained_glass_pane",
+		"id": null,
+		"aux": 14,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "橙色玻璃板",
+		"type": "minecraft:stained_glass_pane",
+		"id": null,
+		"aux": 1,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黄色玻璃板",
+		"type": "minecraft:stained_glass_pane",
+		"id": null,
+		"aux": 4,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黄绿色玻璃版",
+		"type": "minecraft:stained_glass_pane",
+		"id": null,
+		"aux": 5,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "绿色玻璃板",
+		"type": "minecraft:stained_glass_pane",
+		"id": null,
+		"aux": 13,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "青色玻璃版",
+		"type": "minecraft:stained_glass_pane",
+		"id": null,
+		"aux": 9,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "淡蓝色玻璃板",
+		"type": "minecraft:stained_glass_pane",
+		"id": null,
+		"aux": 3,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "蓝色玻璃板",
+		"type": "minecraft:stained_glass_pane",
+		"id": null,
+		"aux": 11,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "紫色玻璃板",
+		"type": "minecraft:stained_glass_pane",
+		"id": null,
+		"aux": 10,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "品红色玻璃板",
+		"type": "minecraft:stained_glass_pane",
+		"id": null,
+		"aux": 2,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "粉红色玻璃板",
+		"type": "minecraft:stained_glass_pane",
+		"id": null,
+		"aux": 6,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "梯子",
+		"type": "minecraft:ladder",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "脚手架",
+		"type": "minecraft:scaffolding",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "平滑石台阶",
+		"type": "minecraft:stone_block_slab",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "石台阶",
+		"type": "minecraft:stone_block_slab4",
+		"id": null,
+		"aux": 2,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "圆石台阶",
+		"type": "minecraft:stone_block_slab",
+		"id": null,
+		"aux": 3,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "苔圆石台阶",
+		"type": "minecraft:stone_block_slab2",
+		"id": null,
+		"aux": 5,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "橡木台阶",
+		"type": "minecraft:wooden_slab",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "云杉木台阶",
+		"type": "minecraft:wooden_slab",
+		"id": null,
+		"aux": 1,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "白桦木台阶",
+		"type": "minecraft:wooden_slab",
+		"id": null,
+		"aux": 2,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "丛林台阶",
+		"type": "minecraft:wooden_slab",
+		"id": null,
+		"aux": 3,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "金合欢台阶",
+		"type": "minecraft:wooden_slab",
+		"id": null,
+		"aux": 4,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "深色橡木台阶",
+		"type": "minecraft:wooden_slab",
+		"id": null,
+		"aux": 5,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "红树林台阶",
+		"type": "minecraft:mangrove_slab",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "石砖台阶",
+		"type": "minecraft:stone_block_slab",
+		"id": null,
+		"aux": 5,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "苔石砖台阶",
+		"type": "minecraft:stone_block_slab4",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "砂岩台阶",
+		"type": "minecraft:stone_block_slab",
+		"id": null,
+		"aux": 1,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "切制砂岩台阶",
+		"type": "minecraft:stone_block_slab4",
+		"id": null,
+		"aux": 3,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "平滑砂岩台阶",
+		"type": "minecraft:stone_block_slab2",
+		"id": null,
+		"aux": 6,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "红砂岩台阶",
+		"type": "minecraft:stone_block_slab2",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "切制红砂岩台阶",
+		"type": "minecraft:stone_block_slab4",
+		"id": null,
+		"aux": 4,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "平滑红砂岩台阶",
+		"type": "minecraft:stone_block_slab3",
+		"id": null,
+		"aux": 1,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "花岗岩台阶",
+		"type": "minecraft:stone_block_slab3",
+		"id": null,
+		"aux": 6,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "磨制花岗岩台阶",
+		"type": "minecraft:stone_block_slab3",
+		"id": null,
+		"aux": 7,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "闪长岩台阶",
+		"type": "minecraft:stone_block_slab3",
+		"id": null,
+		"aux": 4,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "磨制闪长岩台阶",
+		"type": "minecraft:stone_block_slab3",
+		"id": null,
+		"aux": 5,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "安山岩台阶",
+		"type": "minecraft:stone_block_slab3",
+		"id": null,
+		"aux": 3,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "磨制安山岩台阶",
+		"type": "minecraft:stone_block_slab3",
+		"id": null,
+		"aux": 2,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "砖台阶",
+		"type": "minecraft:stone_block_slab",
+		"id": null,
+		"aux": 4,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "下届砖台阶",
+		"type": "minecraft:stone_block_slab",
+		"id": null,
+		"aux": 7,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "红色下届砖台阶",
+		"type": "minecraft:stone_block_slab2",
+		"id": null,
+		"aux": 7,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "末地石台阶",
+		"type": "minecraft:stone_block_slab3",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "石英台阶",
+		"type": "minecraft:stone_block_slab",
+		"id": null,
+		"aux": 6,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "平滑石英台阶",
+		"type": "minecraft:stone_block_slab4",
+		"id": null,
+		"aux": 1,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "紫珀台阶",
+		"type": "minecraft:stone_block_slab2",
+		"id": null,
+		"aux": 1,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "海晶石台阶",
+		"type": "minecraft:stone_block_slab2",
+		"id": null,
+		"aux": 2,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "暗海晶石台阶",
+		"type": "minecraft:stone_block_slab2",
+		"id": null,
+		"aux": 3,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "海晶石砖台阶",
+		"type": "minecraft:stone_block_slab2",
+		"id": null,
+		"aux": 4,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "绯红台阶",
+		"type": "minecraft:crimson_slab",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "诡异木台阶",
+		"type": "minecraft:warped_slab",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黑石台阶",
+		"type": "minecraft:blackstone_slab",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "磨制黑石台阶",
+		"type": "minecraft:polished_blackstone_slab",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "磨制黑石砖台阶",
+		"type": "minecraft:polished_blackstone_brick_slab",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "切制铜块台阶",
+		"type": "minecraft:cut_copper_slab",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "外露切制铜块台阶",
+		"type": "minecraft:exposed_cut_copper_slab",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "风化切制铜块台阶",
+		"type": "minecraft:weathered_cut_copper_slab",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "氧化切制铜块台阶",
+		"type": "minecraft:oxidized_cut_copper_slab",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "涂蜡切制铜块台阶",
+		"type": "minecraft:waxed_cut_copper_slab",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "斑驳的涂蜡切制铜块台阶",
+		"type": "minecraft:waxed_exposed_cut_copper_slab",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "锈蚀的涂蜡切制铜块台阶",
+		"type": "minecraft:waxed_weathered_cut_copper_slab",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "氧化的涂蜡切制铜块台阶",
+		"type": "minecraft:waxed_oxidized_cut_copper_slab",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "深板岩圆石台阶",
+		"type": "minecraft:cobbled_deepslate_slab",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "磨制深板岩台阶",
+		"type": "minecraft:polished_deepslate_slab",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "深板岩瓦台阶",
+		"type": "minecraft:deepslate_tile_slab",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "深板岩砖台阶",
+		"type": "minecraft:deepslate_brick_slab",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "泥砖台阶",
+		"type": "minecraft:mud_brick_slab",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "砖块",
+		"type": "minecraft:brick_block",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "錾制下届砖",
+		"type": "minecraft:chiseled_nether_bricks",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "裂纹下届砖",
+		"type": "minecraft:cracked_nether_bricks",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "石英砖",
+		"type": "minecraft:quartz_bricks",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "石砖",
+		"type": "minecraft:stonebrick",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "苔石砖",
+		"type": "minecraft:stonebrick",
+		"id": null,
+		"aux": 1,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "裂纹石砖",
+		"type": "minecraft:stonebrick",
+		"id": null,
+		"aux": 2,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "錾制石砖",
+		"type": "minecraft:stonebrick",
+		"id": null,
+		"aux": 3,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "末地石砖 ",
+		"type": "minecraft:end_bricks",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "海景石砖",
+		"type": "minecraft:prismarine",
+		"id": null,
+		"aux": 2,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "磨制黑石砖",
+		"type": "minecraft:polished_blackstone_bricks",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "裂纹磨制黑石砖",
+		"type": "minecraft:cracked_polished_blackstone_bricks",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "镀金黑石",
+		"type": "minecraft:gilded_blackstone",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "錾制磨制黑石",
+		"type": "minecraft:chiseled_polished_blackstone",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "深板岩瓦",
+		"type": "minecraft:deepslate_tiles",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "裂纹深板岩瓦",
+		"type": "minecraft:cracked_deepslate_tiles",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "深板岩砖",
+		"type": "minecraft:deepslate_bricks",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "裂纹深板岩砖",
+		"type": "minecraft:cracked_deepslate_bricks",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "錾制深板岩",
+		"type": "minecraft:chiseled_deepslate",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "圆石",
+		"type": "minecraft:cobblestone",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "苔圆石",
+		"type": "minecraft:mossy_cobblestone",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "深板岩圆石",
+		"type": "minecraft:cobbled_deepslate",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "平滑石",
+		"type": "minecraft:smooth_stone",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "砂岩",
+		"type": "minecraft:sandstone",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "錾制砂岩",
+		"type": "minecraft:sandstone",
+		"id": null,
+		"aux": 1,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "切制砂岩",
+		"type": "minecraft:sandstone",
+		"id": null,
+		"aux": 2,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "平滑砂岩",
+		"type": "minecraft:sandstone",
+		"id": null,
+		"aux": 3,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "红砂岩",
+		"type": "minecraft:red_sandstone",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "錾制红砂岩",
+		"type": "minecraft:red_sandstone",
+		"id": null,
+		"aux": 1,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "切制红砂岩",
+		"type": "minecraft:red_sandstone",
+		"id": null,
+		"aux": 2,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "平滑红砂岩",
+		"type": "minecraft:red_sandstone",
+		"id": null,
+		"aux": 3,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "煤炭块",
+		"type": "minecraft:coal_block",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "干海带块",
+		"type": "minecraft:dried_kelp_block",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "金块",
+		"type": "minecraft:gold_block",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "铁块",
+		"type": "minecraft:iron_block",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "铜方块",
+		"type": "minecraft:copper_block",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "斑驳的铜块",
+		"type": "minecraft:exposed_copper",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "锈蚀的铜块",
+		"type": "minecraft:weathered_copper",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "氧化的铜块",
+		"type": "minecraft:oxidized_copper",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "涂蜡的铜方块",
+		"type": "minecraft:waxed_copper",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "斑驳的涂蜡铜块",
+		"type": "minecraft:waxed_exposed_copper",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "锈蚀的涂蜡铜块",
+		"type": "minecraft:waxed_weathered_copper",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "氧化的涂蜡铜块",
+		"type": "minecraft:waxed_oxidized_copper",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "切制铜块",
+		"type": "minecraft:cut_copper",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "外露切制铜块",
+		"type": "minecraft:exposed_cut_copper",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "风化切制铜块",
+		"type": "minecraft:weathered_cut_copper",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "氧化切制铜块",
+		"type": "minecraft:oxidized_cut_copper",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "涂蜡切制铜块",
+		"type": "minecraft:waxed_cut_copper",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "斑驳的涂蜡切制铜块",
+		"type": "minecraft:waxed_exposed_cut_copper",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "锈蚀的涂蜡切制铜块",
+		"type": "minecraft:waxed_weathered_cut_copper",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "氧化的涂蜡切制铜块",
+		"type": "minecraft:waxed_oxidized_cut_copper",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "绿宝石块",
+		"type": "minecraft:emerald_block",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "钻石块",
+		"type": "minecraft:diamond_block",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "青金石块",
+		"type": "minecraft:lapis_block",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "粗铁块",
+		"type": "minecraft:raw_iron_block",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "粗铜块",
+		"type": "minecraft:raw_copper_block",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "粗金块",
+		"type": "minecraft:raw_gold_block",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "石英块",
+		"type": "minecraft:quartz_block",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "石英柱",
+		"type": "minecraft:quartz_block",
+		"id": null,
+		"aux": 2,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "錾制石英块",
+		"type": "minecraft:quartz_block",
+		"id": null,
+		"aux": 1,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "平滑石英块",
+		"type": "minecraft:quartz_block",
+		"id": null,
+		"aux": 3,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "海晶石",
+		"type": "minecraft:prismarine",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "暗海晶石",
+		"type": "minecraft:prismarine",
+		"id": null,
+		"aux": 1,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "粘液块",
+		"type": "minecraft:slime",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "蜂蜜方块",
+		"type": "minecraft:honey_block",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "蜜脾块",
+		"type": "minecraft:honeycomb_block",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "干草块",
+		"type": "minecraft:hay_block",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "骨块",
+		"type": "minecraft:bone_block",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "下届砖块",
+		"type": "minecraft:nether_brick",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "红色下届砖",
+		"type": "minecraft:red_nether_brick",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "下届合金块",
+		"type": "minecraft:netherite_block",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "磁石",
+		"type": "minecraft:lodestone",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "白色羊毛",
+		"type": "minecraft:white_wool",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "淡灰色羊毛",
+		"type": "minecraft:light_gray_wool",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "灰色羊毛",
+		"type": "minecraft:gray_wool",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黑色羊毛",
+		"type": "minecraft:black_wool",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "棕色羊毛",
+		"type": "minecraft:brown_wool",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "红色羊毛",
+		"type": "minecraft:red_wool",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "橙色羊毛",
+		"type": "minecraft:orange_wool",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黄色羊毛",
+		"type": "minecraft:yellow_wool",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黄绿色羊毛",
+		"type": "minecraft:lime_wool",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "绿色羊毛",
+		"type": "minecraft:green_wool",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "青色羊毛",
+		"type": "minecraft:cyan_wool",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "淡蓝色羊毛",
+		"type": "minecraft:light_blue_wool",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "蓝色羊毛",
+		"type": "minecraft:blue_wool",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "紫色羊毛",
+		"type": "minecraft:purple_wool",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "品红色羊毛",
+		"type": "minecraft:magenta_wool",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "粉红色羊毛",
+		"type": "minecraft:pink_wool",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "白色地毯",
+		"type": "minecraft:carpet",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "淡灰色地毯",
+		"type": "minecraft:carpet",
+		"id": null,
+		"aux": 8,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "灰色地毯",
+		"type": "minecraft:carpet",
+		"id": null,
+		"aux": 7,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黑色地毯",
+		"type": "minecraft:carpet",
+		"id": null,
+		"aux": 15,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "棕色地毯",
+		"type": "minecraft:carpet",
+		"id": null,
+		"aux": 12,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "红色地毯",
+		"type": "minecraft:carpet",
+		"id": null,
+		"aux": 14,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "橙色地毯",
+		"type": "minecraft:carpet",
+		"id": null,
+		"aux": 1,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黄色地毯",
+		"type": "minecraft:carpet",
+		"id": null,
+		"aux": 4,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黄绿色地毯",
+		"type": "minecraft:carpet",
+		"id": null,
+		"aux": 5,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "绿色地毯",
+		"type": "minecraft:carpet",
+		"id": null,
+		"aux": 13,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "青色地毯",
+		"type": "minecraft:carpet",
+		"id": null,
+		"aux": 9,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "淡蓝色地毯",
+		"type": "minecraft:carpet",
+		"id": null,
+		"aux": 3,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "蓝色地毯",
+		"type": "minecraft:carpet",
+		"id": null,
+		"aux": 11,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "紫色地毯",
+		"type": "minecraft:carpet",
+		"id": null,
+		"aux": 10,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "品红色地毯",
+		"type": "minecraft:carpet",
+		"id": null,
+		"aux": 2,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "粉红色地毯",
+		"type": "minecraft:carpet",
+		"id": null,
+		"aux": 6,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "白色混凝土粉末",
+		"type": "minecraft:concrete_powder",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "淡灰色混凝土粉末",
+		"type": "minecraft:concrete_powder",
+		"id": null,
+		"aux": 8,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "灰色混凝土粉末",
+		"type": "minecraft:concrete_powder",
+		"id": null,
+		"aux": 7,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黑色混凝土粉末",
+		"type": "minecraft:concrete_powder",
+		"id": null,
+		"aux": 15,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "棕色混凝土粉末",
+		"type": "minecraft:concrete_powder",
+		"id": null,
+		"aux": 12,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "红色混凝土粉末",
+		"type": "minecraft:concrete_powder",
+		"id": null,
+		"aux": 14,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "橙色混凝土粉末",
+		"type": "minecraft:concrete_powder",
+		"id": null,
+		"aux": 1,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黄色混凝土粉末",
+		"type": "minecraft:concrete_powder",
+		"id": null,
+		"aux": 4,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黄绿色混凝土粉末",
+		"type": "minecraft:concrete_powder",
+		"id": null,
+		"aux": 5,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "绿色混凝土粉末",
+		"type": "minecraft:concrete_powder",
+		"id": null,
+		"aux": 13,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "青色混凝土粉末",
+		"type": "minecraft:concrete_powder",
+		"id": null,
+		"aux": 9,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "淡蓝色混凝土粉末",
+		"type": "minecraft:concrete_powder",
+		"id": null,
+		"aux": 3,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "蓝色混凝土粉末",
+		"type": "minecraft:concrete_powder",
+		"id": null,
+		"aux": 11,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "紫色混凝土粉末",
+		"type": "minecraft:concrete_powder",
+		"id": null,
+		"aux": 10,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "品红色混凝土粉末",
+		"type": "minecraft:concrete_powder",
+		"id": null,
+		"aux": 2,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "粉红色混凝土粉末",
+		"type": "minecraft:concrete_powder",
+		"id": null,
+		"aux": 6,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "白色混凝土",
+		"type": "minecraft:concrete",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "淡灰色混凝土",
+		"type": "minecraft:concrete",
+		"id": null,
+		"aux": 8,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "灰色混凝土",
+		"type": "minecraft:concrete",
+		"id": null,
+		"aux": 7,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黑色混凝土",
+		"type": "minecraft:concrete",
+		"id": null,
+		"aux": 15,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "棕色混凝土",
+		"type": "minecraft:concrete",
+		"id": null,
+		"aux": 12,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "红色混凝土",
+		"type": "minecraft:concrete",
+		"id": null,
+		"aux": 14,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "橙色混凝土",
+		"type": "minecraft:concrete",
+		"id": null,
+		"aux": 1,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黄色混凝土",
+		"type": "minecraft:concrete",
+		"id": null,
+		"aux": 4,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黄绿色混凝土",
+		"type": "minecraft:concrete",
+		"id": null,
+		"aux": 5,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "粘土块",
+		"type": "minecraft:clay",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "陶瓦",
+		"type": "minecraft:hardened_clay",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "白色陶瓦",
+		"type": "minecraft:stained_hardened_clay",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "淡灰色陶瓦",
+		"type": "minecraft:stained_hardened_clay",
+		"id": null,
+		"aux": 8,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "灰色陶瓦",
+		"type": "minecraft:stained_hardened_clay",
+		"id": null,
+		"aux": 7,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黑色陶瓦",
+		"type": "minecraft:stained_hardened_clay",
+		"id": null,
+		"aux": 15,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "棕色陶瓦",
+		"type": "minecraft:stained_hardened_clay",
+		"id": null,
+		"aux": 12,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "红色陶瓦",
+		"type": "minecraft:stained_hardened_clay",
+		"id": null,
+		"aux": 14,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "橙色陶瓦",
+		"type": "minecraft:stained_hardened_clay",
+		"id": null,
+		"aux": 1,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黄色陶瓦",
+		"type": "minecraft:stained_hardened_clay",
+		"id": null,
+		"aux": 4,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黄绿色陶瓦",
+		"type": "minecraft:stained_hardened_clay",
+		"id": null,
+		"aux": 5,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "绿色陶瓦",
+		"type": "minecraft:stained_hardened_clay",
+		"id": null,
+		"aux": 13,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "青色陶瓦",
+		"type": "minecraft:stained_hardened_clay",
+		"id": null,
+		"aux": 9,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "淡蓝色陶瓦",
+		"type": "minecraft:stained_hardened_clay",
+		"id": null,
+		"aux": 3,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "蓝色陶瓦",
+		"type": "minecraft:stained_hardened_clay",
+		"id": null,
+		"aux": 11,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "紫色陶瓦",
+		"type": "minecraft:stained_hardened_clay",
+		"id": null,
+		"aux": 10,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "品红色陶瓦",
+		"type": "minecraft:stained_hardened_clay",
+		"id": null,
+		"aux": 2,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "粉红色陶瓦",
+		"type": "minecraft:stained_hardened_clay",
+		"id": null,
+		"aux": 6,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "白色带釉陶瓦",
+		"type": "minecraft:white_glazed_terracotta",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "淡灰色带釉陶瓦",
+		"type": "minecraft:silver_glazed_terracotta",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "灰色带釉陶瓦",
+		"type": "minecraft:gray_glazed_terracotta",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黑色带釉陶瓦",
+		"type": "minecraft:black_glazed_terracotta",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "棕色带釉陶瓦",
+		"type": "minecraft:brown_glazed_terracotta",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "红色带釉陶瓦",
+		"type": "minecraft:red_glazed_terracotta",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "橙色带釉陶瓦",
+		"type": "minecraft:orange_glazed_terracotta",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黄色带釉陶瓦",
+		"type": "minecraft:yellow_glazed_terracotta",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "黄绿色带釉陶瓦",
+		"type": "minecraft:lime_glazed_terracotta",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "绿色带釉陶瓦",
+		"type": "minecraft:green_glazed_terracotta",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "青色带釉陶瓦",
+		"type": "minecraft:cyan_glazed_terracotta",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "淡蓝色带釉陶瓦",
+		"type": "minecraft:light_blue_glazed_terracotta",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "蓝色带釉陶瓦",
+		"type": "minecraft:blue_glazed_terracotta",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "紫色带釉陶瓦",
+		"type": "minecraft:purple_glazed_terracotta",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "品红色带釉陶瓦",
+		"type": "minecraft:magenta_glazed_terracotta",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "粉红色带釉陶瓦",
+		"type": "minecraft:pink_glazed_terracotta",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "紫珀方块",
+		"type": "minecraft:purpur_block",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "紫珀柱子",
+		"type": "minecraft:purpur_block",
+		"id": null,
+		"aux": 2,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "填充泥浆",
+		"type": "minecraft:packed_mud",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "泥砖",
+		"type": "minecraft:mud_bricks",
+		"id": null,
+		"aux": 0,
+		"class": "建筑",
+		"icon": null
+	},
+	{
+		"name": "皮革帽子",
+		"type": "minecraft:leather_helmet",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "锁链头盔",
+		"type": "minecraft:chainmail_helmet",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/chainmail_helmet.png"
+	},
+	{
+		"name": "铁头盔",
+		"type": "minecraft:iron_helmet",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/iron_helmet.png"
+	},
+	{
+		"name": "金头盔",
+		"type": "minecraft:golden_helmet",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/gold_helmet.png"
+	},
+	{
+		"name": "钻石头盔",
+		"type": "minecraft:diamond_helmet",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/diamond_helmet.png"
+	},
+	{
+		"name": "下界合金头盔",
+		"type": "minecraft:netherite_helmet",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "皮革胸甲",
+		"type": "minecraft:leather_chestplate",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "锁链胸甲",
+		"type": "minecraft:chainmail_chestplate",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/chainmail_chestplate.png"
+	},
+	{
+		"name": "铁胸甲",
+		"type": "minecraft:iron_chestplate",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/iron_chestplate.png"
+	},
+	{
+		"name": "金胸甲",
+		"type": "minecraft:golden_chestplate",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/gold_chestplate.png"
+	},
+	{
+		"name": "钻石胸甲",
+		"type": "minecraft:diamond_chestplate",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/diamond_chestplate.png"
+	},
+	{
+		"name": "下界合金胸甲",
+		"type": "minecraft:netherite_chestplate",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "皮革裤子",
+		"type": "minecraft:leather_leggings",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "锁链护腿",
+		"type": "minecraft:chainmail_leggings",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/chainmail_leggings.png"
+	},
+	{
+		"name": "铁护腿",
+		"type": "minecraft:iron_leggings",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/iron_leggings.png"
+	},
+	{
+		"name": "金护腿",
+		"type": "minecraft:golden_leggings",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/gold_leggings.png"
+	},
+	{
+		"name": "钻石护腿",
+		"type": "minecraft:diamond_leggings",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/diamond_leggings.png"
+	},
+	{
+		"name": "下界合金护腿",
+		"type": "minecraft:netherite_leggings",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "皮革靴子",
+		"type": "minecraft:leather_boots",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "锁链靴子",
+		"type": "minecraft:chainmail_boots",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/chainmail_boots.png"
+	},
+	{
+		"name": "铁靴子",
+		"type": "minecraft:iron_boots",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/iron_boots.png"
+	},
+	{
+		"name": "金靴子",
+		"type": "minecraft:golden_boots",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/gold_boots.png"
+	},
+	{
+		"name": "钻石靴子",
+		"type": "minecraft:diamond_boots",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/diamond_boots.png"
+	},
+	{
+		"name": "下界合金靴子",
+		"type": "minecraft:netherite_boots",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "木剑",
+		"type": "minecraft:wooden_sword",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/wood_sword.png"
+	},
+	{
+		"name": "石剑",
+		"type": "minecraft:stone_sword",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/stone_sword.png"
+	},
+	{
+		"name": "铁剑",
+		"type": "minecraft:iron_sword",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/iron_sword.png"
+	},
+	{
+		"name": "金剑",
+		"type": "minecraft:golden_sword",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/gold_sword.png"
+	},
+	{
+		"name": "钻石剑",
+		"type": "minecraft:diamond_sword",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/diamond_sword.png"
+	},
+	{
+		"name": "下界合金剑",
+		"type": "minecraft:netherite_sword",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "木斧",
+		"type": "minecraft:wooden_axe",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/wood_axe.png"
+	},
+	{
+		"name": "石斧",
+		"type": "minecraft:stone_axe",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/stone_axe.png"
+	},
+	{
+		"name": "铁斧",
+		"type": "minecraft:iron_axe",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/iron_axe.png"
+	},
+	{
+		"name": "金斧",
+		"type": "minecraft:golden_axe",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/gold_axe.png"
+	},
+	{
+		"name": "钻石斧",
+		"type": "minecraft:diamond_axe",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/diamond_axe.png"
+	},
+	{
+		"name": "下界合金斧头",
+		"type": "minecraft:netherite_axe",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "木镐",
+		"type": "minecraft:wooden_pickaxe",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/wood_pickaxe.png"
+	},
+	{
+		"name": "石镐",
+		"type": "minecraft:stone_pickaxe",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/stone_pickaxe.png"
+	},
+	{
+		"name": "铁镐",
+		"type": "minecraft:iron_pickaxe",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/iron_pickaxe.png"
+	},
+	{
+		"name": "金镐",
+		"type": "minecraft:golden_pickaxe",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/gold_pickaxe.png"
+	},
+	{
+		"name": "钻石镐",
+		"type": "minecraft:diamond_pickaxe",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/diamond_pickaxe.png"
+	},
+	{
+		"name": "下界合金镐",
+		"type": "minecraft:netherite_pickaxe",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "木锹",
+		"type": "minecraft:wooden_shovel",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/wood_shovel.png"
+	},
+	{
+		"name": "石锹",
+		"type": "minecraft:stone_shovel",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/stone_shovel.png"
+	},
+	{
+		"name": "铁锹",
+		"type": "minecraft:iron_shovel",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/iron_shovel.png"
+	},
+	{
+		"name": "金锹",
+		"type": "minecraft:golden_shovel",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/gold_shovel.png"
+	},
+	{
+		"name": "钻石锹",
+		"type": "minecraft:diamond_shovel",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/diamond_shovel.png"
+	},
+	{
+		"name": "下界合金锹",
+		"type": "minecraft:netherite_shovel",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "木锄",
+		"type": "minecraft:wooden_hoe",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/wood_hoe.png"
+	},
+	{
+		"name": "石锄",
+		"type": "minecraft:stone_hoe",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/stone_hoe.png"
+	},
+	{
+		"name": "铁锄",
+		"type": "minecraft:iron_hoe",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/iron_hoe.png"
+	},
+	{
+		"name": "金锄",
+		"type": "minecraft:golden_hoe",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/gold_hoe.png"
+	},
+	{
+		"name": "钻石锄",
+		"type": "minecraft:diamond_hoe",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/diamond_hoe.png"
+	},
+	{
+		"name": "下界合金锄头",
+		"type": "minecraft:netherite_hoe",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "弓",
+		"type": "minecraft:bow",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/bowl.png"
+	},
+	{
+		"name": "弩",
+		"type": "minecraft:crossbow",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/crossbow_standby.png"
+	},
+	{
+		"name": "箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/arrow.png"
+	},
+	{
+		"name": "夜视箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 6,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "夜视箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 7,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "隐身箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 8,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "隐身箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 9,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "跳跃箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 10,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "跳跃箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 11,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "跳跃箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 12,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "抗火箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 13,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "抗火箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 14,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "迅捷之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 15,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "迅捷之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 16,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "迅捷之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 17,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "缓慢之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 18,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "缓慢之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 19,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "水肺之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 20,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "水肺之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 21,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "治疗之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 22,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "治疗之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 23,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "伤害之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 24,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "伤害之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 25,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "剧毒箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 26,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "剧毒箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 27,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "剧毒箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 28,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "再生之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 29,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "再生之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 30,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "再生之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 31,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "力量之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 32,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "力量之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 33,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "力量之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 34,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "虚弱之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 35,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "虚弱之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 36,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "衰变之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 37,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "神龟之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 38,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "神龟之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 39,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "神龟之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 40,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "缓降之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 41,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "缓降之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 42,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "缓慢之箭",
+		"type": "minecraft:arrow",
+		"id": null,
+		"aux": 43,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "护盾",
+		"type": "minecraft:shield",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "熟鸡肉",
+		"type": "minecraft:cooked_chicken",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/chicken_cooked.png"
+	},
+	{
+		"name": "熟猪排",
+		"type": "minecraft:cooked_porkchop",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/porkchop_cooked.png"
+	},
+	{
+		"name": "牛排",
+		"type": "minecraft:cooked_beef",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/beef_cooked.png"
+	},
+	{
+		"name": "熟羊肉",
+		"type": "minecraft:cooked_mutton",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/mutton_cooked.png"
+	},
+	{
+		"name": "熟兔肉",
+		"type": "minecraft:cooked_rabbit",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/rabbit_cooked.png"
+	},
+	{
+		"name": "熟鳕鱼",
+		"type": "minecraft:cooked_cod",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/fish_cooked.png"
+	},
+	{
+		"name": "熟鲑鱼",
+		"type": "minecraft:cooked_salmon",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/fish_salmon_cooked.png"
+	},
+	{
+		"name": "面包",
+		"type": "minecraft:bread",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/bread.png"
+	},
+	{
+		"name": "蘑菇煲",
+		"type": "minecraft:mushroom_stew",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/mushroom_stew.png"
+	},
+	{
+		"name": "甜菜汤",
+		"type": "minecraft:beetroot_soup",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/beetroot_soup.png"
+	},
+	{
+		"name": "兔肉煲",
+		"type": "minecraft:rabbit_stew",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/rabbit_stew.png"
+	},
+	{
+		"name": "烤马铃薯",
+		"type": "minecraft:baked_potato",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/potato_baked.png"
+	},
+	{
+		"name": "曲奇",
+		"type": "minecraft:cookie",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/cookie.png"
+	},
+	{
+		"name": "南瓜派",
+		"type": "minecraft:pumpkin_pie",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/pumpkin_pie.png"
+	},
+	{
+		"name": "蛋糕",
+		"type": "minecraft:cake",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/cake.png"
+	},
+	{
+		"name": "干海带",
+		"type": "minecraft:dried_kelp",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/dried_kelp.png"
+	},
+	{
+		"name": "钓鱼竿",
+		"type": "minecraft:fishing_rod",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/fishing_rod_uncast.png"
+	},
+	{
+		"name": "胡萝卜钓竿",
+		"type": "minecraft:carrot_on_a_stick",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/carrot_on_a_stick.png"
+	},
+	{
+		"name": "诡异真菌钓竿",
+		"type": "minecraft:warped_fungus_on_a_stick",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "雪球",
+		"type": "minecraft:snowball",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/snowball.png"
+	},
+	{
+		"name": "剪刀",
+		"type": "minecraft:shears",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/shears.png"
+	},
+	{
+		"name": "打火石",
+		"type": "minecraft:flint_and_steel",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/flint_and_steel.png"
+	},
+	{
+		"name": "拴绳",
+		"type": "minecraft:lead",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/lead.png"
+	},
+	{
+		"name": "钟",
+		"type": "minecraft:clock",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/clock_item.png"
+	},
+	{
+		"name": "指南针",
+		"type": "minecraft:compass",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/compass_item.png"
+	},
+	{
+		"name": "追溯指针",
+		"type": "minecraft:recovery_compass",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "山羊角",
+		"type": "minecraft:goat_horn",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "山羊角",
+		"type": "minecraft:goat_horn",
+		"id": null,
+		"aux": 1,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "山羊角",
+		"type": "minecraft:goat_horn",
+		"id": null,
+		"aux": 2,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "山羊角",
+		"type": "minecraft:goat_horn",
+		"id": null,
+		"aux": 3,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "山羊角",
+		"type": "minecraft:goat_horn",
+		"id": null,
+		"aux": 4,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "山羊角",
+		"type": "minecraft:goat_horn",
+		"id": null,
+		"aux": 5,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "山羊角",
+		"type": "minecraft:goat_horn",
+		"id": null,
+		"aux": 6,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "山羊角",
+		"type": "minecraft:goat_horn",
+		"id": null,
+		"aux": 7,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "空白地图",
+		"type": "minecraft:empty_map",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/map_empty.png"
+	},
+	{
+		"name": "空的定位器地图",
+		"type": "minecraft:empty_map",
+		"id": null,
+		"aux": 2,
+		"class": "装备",
+		"icon": "textures/items/map_empty.png"
+	},
+	{
+		"name": "鞍",
+		"type": "minecraft:saddle",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/saddle.png"
+	},
+	{
+		"name": "皮革马铠",
+		"type": "minecraft:leather_horse_armor",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "铁马铠",
+		"type": "minecraft:iron_horse_armor",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/iron_horse_armor.png"
+	},
+	{
+		"name": "黄金马铠",
+		"type": "minecraft:golden_horse_armor",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/gold_horse_armor.png"
+	},
+	{
+		"name": "钻石马铠",
+		"type": "minecraft:diamond_horse_armor",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/diamond_horse_armor.png"
+	},
+	{
+		"name": "三叉戟",
+		"type": "minecraft:trident",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/trident.png"
+	},
+	{
+		"name": "海龟壳",
+		"type": "minecraft:turtle_helmet",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/turtle_helmet.png"
+	},
+	{
+		"name": "鞘翅",
+		"type": "minecraft:elytra",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/elytra.png"
+	},
+	{
+		"name": "不死图腾",
+		"type": "minecraft:totem_of_undying",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/totem.png"
+	},
+	{
+		"name": "玻璃瓶",
+		"type": "minecraft:glass_bottle",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "附魔之瓶",
+		"type": "minecraft:experience_bottle",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": "textures/items/experience_bottle.png"
+	},
+	{
+		"name": "水瓶",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "平凡药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 1,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "长久平凡药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 2,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "浓稠药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 3,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "粗制药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 4,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "夜视药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 5,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "夜视药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 6,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "隐身药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 7,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "隐身药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 8,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "跳跃药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 9,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "跳跃药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 10,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "跳跃药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 11,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "抗火药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 12,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "抗火药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 13,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "迅捷药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 14,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "迅捷药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 15,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "迅捷药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 16,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "缓慢药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 17,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "缓慢药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 18,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "水肺药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 19,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "水肺药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 20,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "治疗药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 21,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "治疗药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 22,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "伤害药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 23,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "伤害药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 24,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "剧毒药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 25,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "剧毒药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 26,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "剧毒药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 27,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "生命恢复药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 28,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "生命恢复药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 29,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "生命恢复药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 30,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "力量药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 31,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "力量药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 32,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "力量药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 33,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "虚弱药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 34,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "虚弱药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 35,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "衰变药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 36,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "神龟药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 37,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "神龟药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 38,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "神龟药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 39,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "缓降药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 40,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "缓降药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 41,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "缓慢药水",
+		"type": "minecraft:potion",
+		"id": null,
+		"aux": 42,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅水瓶",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型平凡药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 1,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型长久平凡药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 2,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型浓稠药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 3,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型粗制药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 4,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型夜视药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 5,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型夜视药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 6,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型隐身药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 7,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型隐身药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 8,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型跳跃药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 9,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型跳跃药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 10,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型跳跃药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 11,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型抗火药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 12,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型抗火药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 13,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型迅捷药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 14,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型迅捷药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 15,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型迅捷药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 16,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型缓慢药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 17,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型缓慢药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 18,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型水肺药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 19,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型水肺药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 20,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型治疗药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 21,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型治疗药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 22,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型伤害药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 23,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型伤害药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 24,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型剧毒药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 25,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型剧毒药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 26,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型剧毒药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 27,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型生命恢复药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 28,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型生命恢复药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 29,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型生命恢复药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 30,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型力量药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 31,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型力量药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 32,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型力量药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 33,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型虚弱药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 34,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型虚弱药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 35,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型衰变药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 36,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型神龟药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 37,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型神龟药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 38,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型神龟药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 39,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型缓降药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 40,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型缓降药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 41,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "喷溅型缓慢药水",
+		"type": "minecraft:splash_potion",
+		"id": null,
+		"aux": 42,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滯留水瓶",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型平凡药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 1,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型长久平凡药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 2,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型浓稠药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 3,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型粗制药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 4,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型夜视药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 5,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型夜视药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 6,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型隐身药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 7,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型隐身药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 8,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型跳跃药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 9,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型跳跃药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 10,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型跳跃药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 11,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型抗火药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 12,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型抗火药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 13,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型迅捷药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 14,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型迅捷药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 15,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型迅捷药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 16,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型缓慢药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 17,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型缓慢药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 18,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型水肺药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 20,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型水肺药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 19,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型治疗药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 21,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型治疗药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 22,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型伤害药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 23,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型伤害药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 24,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型剧毒药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 25,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型剧毒药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 26,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型剧毒药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 27,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型生命恢复药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 28,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型生命恢复药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 29,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型生命恢复药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 30,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型力量药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 31,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型力量药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 32,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型力量药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 33,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型虚弱药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 34,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型虚弱药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 35,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型衰变药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 36,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型神龟药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 37,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型神龟药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 38,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型神龟药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 39,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型缓降药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 40,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型缓降药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 41,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "滞留型缓慢药水",
+		"type": "minecraft:lingering_potion",
+		"id": null,
+		"aux": 42,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "望远镜",
+		"type": "minecraft:spyglass",
+		"id": null,
+		"aux": 0,
+		"class": "装备",
+		"icon": null
+	},
+	{
+		"name": "木棍",
+		"type": "minecraft:stick",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/stick.png"
+	},
+	{
+		"name": "白床",
+		"type": "minecraft:bed",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/bed_white.png"
+	},
+	{
+		"name": "淡灰床",
+		"type": "minecraft:bed",
+		"id": null,
+		"aux": 8,
+		"class": "物品",
+		"icon": "textures/items/bed_silver.png"
+	},
+	{
+		"name": "灰床",
+		"type": "minecraft:bed",
+		"id": null,
+		"aux": 7,
+		"class": "物品",
+		"icon": "textures/items/bed_gray.png"
+	},
+	{
+		"name": "黑床",
+		"type": "minecraft:bed",
+		"id": null,
+		"aux": 15,
+		"class": "物品",
+		"icon": "textures/items/bed_black.png"
+	},
+	{
+		"name": "棕床",
+		"type": "minecraft:bed",
+		"id": null,
+		"aux": 12,
+		"class": "物品",
+		"icon": "textures/items/bed_brown.png"
+	},
+	{
+		"name": "红床",
+		"type": "minecraft:bed",
+		"id": null,
+		"aux": 14,
+		"class": "物品",
+		"icon": "textures/items/bed_red.png"
+	},
+	{
+		"name": "橙床",
+		"type": "minecraft:bed",
+		"id": null,
+		"aux": 1,
+		"class": "物品",
+		"icon": "textures/items/bed_orange.png"
+	},
+	{
+		"name": "黄床",
+		"type": "minecraft:bed",
+		"id": null,
+		"aux": 4,
+		"class": "物品",
+		"icon": "textures/items/bed_yellow.png"
+	},
+	{
+		"name": "黄绿床",
+		"type": "minecraft:bed",
+		"id": null,
+		"aux": 5,
+		"class": "物品",
+		"icon": "textures/items/bed_lime.png"
+	},
+	{
+		"name": "绿床",
+		"type": "minecraft:bed",
+		"id": null,
+		"aux": 13,
+		"class": "物品",
+		"icon": "textures/items/bed_green.png"
+	},
+	{
+		"name": "青床",
+		"type": "minecraft:bed",
+		"id": null,
+		"aux": 9,
+		"class": "物品",
+		"icon": "textures/items/bed_cyan.png"
+	},
+	{
+		"name": "淡蓝床",
+		"type": "minecraft:bed",
+		"id": null,
+		"aux": 3,
+		"class": "物品",
+		"icon": "textures/items/bed_light_blue.png"
+	},
+	{
+		"name": "蓝床",
+		"type": "minecraft:bed",
+		"id": null,
+		"aux": 11,
+		"class": "物品",
+		"icon": "textures/items/bed_blue.png"
+	},
+	{
+		"name": "紫床",
+		"type": "minecraft:bed",
+		"id": null,
+		"aux": 10,
+		"class": "物品",
+		"icon": "textures/items/bed_purple.png"
+	},
+	{
+		"name": "品红床",
+		"type": "minecraft:bed",
+		"id": null,
+		"aux": 2,
+		"class": "物品",
+		"icon": "textures/items/bed_magenta.png"
+	},
+	{
+		"name": "粉床",
+		"type": "minecraft:bed",
+		"id": null,
+		"aux": 6,
+		"class": "物品",
+		"icon": "textures/items/bed_pink.png"
+	},
+	{
+		"name": "火把",
+		"type": "minecraft:torch",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "灵魂火把",
+		"type": "minecraft:soul_torch",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "海泡菜",
+		"type": "minecraft:sea_pickle",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/sea_pickle.png"
+	},
+	{
+		"name": "灯",
+		"type": "minecraft:lantern",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/lantern.png"
+	},
+	{
+		"name": "灵魂灯",
+		"type": "minecraft:soul_lantern",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "蜡烛",
+		"type": "minecraft:candle",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "白色蜡烛",
+		"type": "minecraft:white_candle",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "橙色蜡烛",
+		"type": "minecraft:orange_candle",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "品红色蜡烛",
+		"type": "minecraft:magenta_candle",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "淡蓝色蜡烛",
+		"type": "minecraft:light_blue_candle",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "黄色蜡烛",
+		"type": "minecraft:yellow_candle",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "黄绿色蜡烛",
+		"type": "minecraft:lime_candle",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "粉红色蜡烛",
+		"type": "minecraft:pink_candle",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "灰色蜡烛",
+		"type": "minecraft:gray_candle",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "淡灰色蜡烛",
+		"type": "minecraft:light_gray_candle",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "青色蜡烛",
+		"type": "minecraft:cyan_candle",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "紫色蜡烛",
+		"type": "minecraft:purple_candle",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "蓝色蜡烛",
+		"type": "minecraft:blue_candle",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "棕色蜡烛",
+		"type": "minecraft:brown_candle",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "绿色蜡烛",
+		"type": "minecraft:green_candle",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "红色蜡烛",
+		"type": "minecraft:red_candle",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "黑色蜡烛",
+		"type": "minecraft:black_candle",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "工作台",
+		"type": "minecraft:crafting_table",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "制图台",
+		"type": "minecraft:cartography_table",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "制箭台",
+		"type": "minecraft:fletching_table",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "锻造台",
+		"type": "minecraft:smithing_table",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "蜂箱",
+		"type": "minecraft:beehive",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "营火",
+		"type": "minecraft:campfire",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/campfire.png"
+	},
+	{
+		"name": "灵魂营火",
+		"type": "minecraft:soul_campfire",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "熔炉",
+		"type": "minecraft:furnace",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "高炉",
+		"type": "minecraft:blast_furnace",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "烟熏炉",
+		"type": "minecraft:smoker",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "重生锚",
+		"type": "minecraft:respawn_anchor",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "酿造台",
+		"type": "minecraft:brewing_stand",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/brewing_stand.png"
+	},
+	{
+		"name": "铁砧",
+		"type": "minecraft:anvil",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "轻微损坏的铁砧",
+		"type": "minecraft:anvil",
+		"id": null,
+		"aux": 4,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "严重损坏的铁砧",
+		"type": "minecraft:anvil",
+		"id": null,
+		"aux": 8,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "砂轮",
+		"type": "minecraft:grindstone",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "附魔台",
+		"type": "minecraft:enchanting_table",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "书架",
+		"type": "minecraft:bookshelf",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "讲台",
+		"type": "minecraft:lectern",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "炼药锅",
+		"type": "minecraft:cauldron",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/cauldron.png"
+	},
+	{
+		"name": "堆肥箱",
+		"type": "minecraft:composter",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "箱子",
+		"type": "minecraft:chest",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "陷阱箱",
+		"type": "minecraft:trapped_chest",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "末影箱",
+		"type": "minecraft:ender_chest",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "木桶",
+		"type": "minecraft:barrel",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "潜影盒",
+		"type": "minecraft:undyed_shulker_box",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "白色潜影盒",
+		"type": "minecraft:shulker_box",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "淡灰色潜影盒",
+		"type": "minecraft:shulker_box",
+		"id": null,
+		"aux": 8,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "灰色潜影盒",
+		"type": "minecraft:shulker_box",
+		"id": null,
+		"aux": 7,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "黑色潜影盒",
+		"type": "minecraft:shulker_box",
+		"id": null,
+		"aux": 15,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "棕色潜影盒",
+		"type": "minecraft:shulker_box",
+		"id": null,
+		"aux": 12,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "红色潜影盒",
+		"type": "minecraft:shulker_box",
+		"id": null,
+		"aux": 14,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "橙色潜影盒",
+		"type": "minecraft:shulker_box",
+		"id": null,
+		"aux": 1,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "黄色潜影盒",
+		"type": "minecraft:shulker_box",
+		"id": null,
+		"aux": 4,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "黄绿色潜影盒",
+		"type": "minecraft:shulker_box",
+		"id": null,
+		"aux": 5,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "绿色潜影盒",
+		"type": "minecraft:shulker_box",
+		"id": null,
+		"aux": 13,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "青色潜影盒",
+		"type": "minecraft:shulker_box",
+		"id": null,
+		"aux": 9,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "淡蓝色潜影盒",
+		"type": "minecraft:shulker_box",
+		"id": null,
+		"aux": 3,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "蓝色潜影盒",
+		"type": "minecraft:shulker_box",
+		"id": null,
+		"aux": 11,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "紫色潜影盒",
+		"type": "minecraft:shulker_box",
+		"id": null,
+		"aux": 10,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "品红色潜影盒",
+		"type": "minecraft:shulker_box",
+		"id": null,
+		"aux": 2,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "粉红色潜影盒",
+		"type": "minecraft:shulker_box",
+		"id": null,
+		"aux": 6,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "盔甲架",
+		"type": "minecraft:armor_stand",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/armor_stand.png"
+	},
+	{
+		"name": "音符盒",
+		"type": "minecraft:noteblock",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "唱片机",
+		"type": "minecraft:jukebox",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "音乐唱片",
+		"type": "minecraft:music_disc_13",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/record_13.png"
+	},
+	{
+		"name": "音乐唱片",
+		"type": "minecraft:music_disc_cat",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/record_cat.png"
+	},
+	{
+		"name": "音乐唱片",
+		"type": "minecraft:music_disc_blocks",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/record_blocks.png"
+	},
+	{
+		"name": "音乐唱片",
+		"type": "minecraft:music_disc_chirp",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/record_chirp.png"
+	},
+	{
+		"name": "音乐唱片",
+		"type": "minecraft:music_disc_far",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/record_far.png"
+	},
+	{
+		"name": "音乐唱片",
+		"type": "minecraft:music_disc_mall",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/record_mall.png"
+	},
+	{
+		"name": "音乐唱片",
+		"type": "minecraft:music_disc_mellohi",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/record_mellohi.png"
+	},
+	{
+		"name": "音乐唱片",
+		"type": "minecraft:music_disc_stal",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/record_stal.png"
+	},
+	{
+		"name": "音乐唱片",
+		"type": "minecraft:music_disc_strad",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/record_strad.png"
+	},
+	{
+		"name": "音乐唱片",
+		"type": "minecraft:music_disc_ward",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/record_ward.png"
+	},
+	{
+		"name": "音乐唱片",
+		"type": "minecraft:music_disc_11",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/record_11.png"
+	},
+	{
+		"name": "音乐唱片",
+		"type": "minecraft:music_disc_wait",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/record_wait.png"
+	},
+	{
+		"name": "音乐唱片",
+		"type": "minecraft:music_disc_otherside",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "音乐唱片",
+		"type": "minecraft:music_disc_5",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "音乐唱片",
+		"type": "minecraft:music_disc_pigstep",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "唱片碎片",
+		"type": "minecraft:disc_fragment_5",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "荧石粉",
+		"type": "minecraft:glowstone_dust",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/glowstone_dust.png"
+	},
+	{
+		"name": "荧石",
+		"type": "minecraft:glowstone",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "红石灯",
+		"type": "minecraft:redstone_lamp",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "海晶灯",
+		"type": "minecraft:sea_lantern",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "橡木告示牌",
+		"type": "minecraft:oak_sign",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/sign.png"
+	},
+	{
+		"name": "云杉木告示牌",
+		"type": "minecraft:spruce_sign",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/sign_spruce.png"
+	},
+	{
+		"name": "白桦木告示牌",
+		"type": "minecraft:birch_sign",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/sign_birch.png"
+	},
+	{
+		"name": "丛林木告示牌",
+		"type": "minecraft:jungle_sign",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/sign_jungle.png"
+	},
+	{
+		"name": "金合欢木告示牌",
+		"type": "minecraft:acacia_sign",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/sign_acacia.png"
+	},
+	{
+		"name": "深色橡木告示牌",
+		"type": "minecraft:dark_oak_sign",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/sign_darkoak.png"
+	},
+	{
+		"name": "红树林告示牌",
+		"type": "minecraft:mangrove_sign",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "诡异木告示牌",
+		"type": "minecraft:warped_sign",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "画",
+		"type": "minecraft:painting",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/painting.png"
+	},
+	{
+		"name": "物品展示框",
+		"type": "minecraft:frame",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/item_frame.png"
+	},
+	{
+		"name": "发光物品展示框",
+		"type": "minecraft:glow_frame",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "蜂蜜瓶",
+		"type": "minecraft:honey_bottle",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "花盆",
+		"type": "minecraft:flower_pot",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/flower_pot.png"
+	},
+	{
+		"name": "碗",
+		"type": "minecraft:bowl",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/bow_standby.png"
+	},
+	{
+		"name": "桶",
+		"type": "minecraft:bucket",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/bucket_empty.png"
+	},
+	{
+		"name": "牛奶",
+		"type": "minecraft:milk_bucket",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/bucket_milk.png"
+	},
+	{
+		"name": "水桶",
+		"type": "minecraft:water_bucket",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/bucket_water.png"
+	},
+	{
+		"name": "熔岩桶",
+		"type": "minecraft:lava_bucket",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/bucket_lava.png"
+	},
+	{
+		"name": "桶装鳕鱼",
+		"type": "minecraft:cod_bucket",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/bucket_cod.png"
+	},
+	{
+		"name": "桶装鲑鱼",
+		"type": "minecraft:salmon_bucket",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/bucket_salmon.png"
+	},
+	{
+		"name": "桶装热带鱼",
+		"type": "minecraft:tropical_fish_bucket",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/bucket_tropical.png"
+	},
+	{
+		"name": "桶装河豚",
+		"type": "minecraft:pufferfish_bucket",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/bucket_pufferfish.png"
+	},
+	{
+		"name": "粉状雪桶",
+		"type": "minecraft:powder_snow_bucket",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "美西螈桶",
+		"type": "minecraft:axolotl_bucket",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "蝌蚪桶",
+		"type": "minecraft:tadpole_bucket",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "头颅",
+		"type": "minecraft:skull",
+		"id": null,
+		"aux": 3,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "僵尸的头",
+		"type": "minecraft:skull",
+		"id": null,
+		"aux": 2,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "苦力怕的头",
+		"type": "minecraft:skull",
+		"id": null,
+		"aux": 4,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "龙首",
+		"type": "minecraft:skull",
+		"id": null,
+		"aux": 5,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "骷髅头颅",
+		"type": "minecraft:skull",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "凋灵骷髅头颅",
+		"type": "minecraft:skull",
+		"id": null,
+		"aux": 1,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "信标",
+		"type": "minecraft:beacon",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "钟",
+		"type": "minecraft:bell",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/villagebell.png"
+	},
+	{
+		"name": "潮涌核心",
+		"type": "minecraft:conduit",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "切石机",
+		"type": "minecraft:stonecutter_block",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "末地传送门框架",
+		"type": "minecraft:end_portal_frame",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "煤炭",
+		"type": "minecraft:coal",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/coal.png"
+	},
+	{
+		"name": "木炭",
+		"type": "minecraft:charcoal",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/charcoal.png"
+	},
+	{
+		"name": "钻石",
+		"type": "minecraft:diamond",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/diamond.png"
+	},
+	{
+		"name": "铁粒",
+		"type": "minecraft:iron_nugget",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/iron_nugget.png"
+	},
+	{
+		"name": "粗铁",
+		"type": "minecraft:raw_iron",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "粗金",
+		"type": "minecraft:raw_gold",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "粗铜",
+		"type": "minecraft:raw_copper",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "铜锭",
+		"type": "minecraft:copper_ingot",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "铁锭",
+		"type": "minecraft:iron_ingot",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/iron_ingot.png"
+	},
+	{
+		"name": "下界合金碎片",
+		"type": "minecraft:netherite_scrap",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "下界合金锭",
+		"type": "minecraft:netherite_ingot",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "金粒",
+		"type": "minecraft:gold_nugget",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/gold_nugget.png"
+	},
+	{
+		"name": "金锭",
+		"type": "minecraft:gold_ingot",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/gold_ingot.png"
+	},
+	{
+		"name": "绿宝石",
+		"type": "minecraft:emerald",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/emerald.png"
+	},
+	{
+		"name": "下界石英",
+		"type": "minecraft:quartz",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/quartz.png"
+	},
+	{
+		"name": "粘土",
+		"type": "minecraft:clay_ball",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/clay_ball.png"
+	},
+	{
+		"name": "红砖",
+		"type": "minecraft:brick",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/brick.png"
+	},
+	{
+		"name": "下界砖",
+		"type": "minecraft:netherbrick",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/netherbrick.png"
+	},
+	{
+		"name": "海晶碎片",
+		"type": "minecraft:prismarine_shard",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/prismarine_shard.png"
+	},
+	{
+		"name": "紫水晶碎片",
+		"type": "minecraft:amethyst_shard",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "海晶砂粒",
+		"type": "minecraft:prismarine_crystals",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/prismarine_crystals.png"
+	},
+	{
+		"name": "鹦鹉螺壳",
+		"type": "minecraft:nautilus_shell",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/nautilus.png"
+	},
+	{
+		"name": "海洋之心",
+		"type": "minecraft:heart_of_the_sea",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/heartofthesea_closed.png"
+	},
+	{
+		"name": "鳞甲",
+		"type": "minecraft:scute",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/turtle_shell_piece.png"
+	},
+	{
+		"name": "幻翼膜",
+		"type": "minecraft:phantom_membrane",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/phantom_membrane.png"
+	},
+	{
+		"name": "线",
+		"type": "minecraft:string",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/string.png"
+	},
+	{
+		"name": "羽毛",
+		"type": "minecraft:feather",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/feather.png"
+	},
+	{
+		"name": "燧石",
+		"type": "minecraft:flint",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/flint.png"
+	},
+	{
+		"name": "火药",
+		"type": "minecraft:gunpowder",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/gunpowder.png"
+	},
+	{
+		"name": "皮革",
+		"type": "minecraft:leather",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/leather.png"
+	},
+	{
+		"name": "兔子皮",
+		"type": "minecraft:rabbit_hide",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/rabbit_hide.png"
+	},
+	{
+		"name": "兔子脚",
+		"type": "minecraft:rabbit_foot",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/rabbit_foot.png"
+	},
+	{
+		"name": "火焰弹",
+		"type": "minecraft:fire_charge",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/fireball.png"
+	},
+	{
+		"name": "烈焰棒",
+		"type": "minecraft:blaze_rod",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/blaze_rod.png"
+	},
+	{
+		"name": "烈焰粉",
+		"type": "minecraft:blaze_powder",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/blaze_powder.png"
+	},
+	{
+		"name": "岩浆膏",
+		"type": "minecraft:magma_cream",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/magma_cream.png"
+	},
+	{
+		"name": "发酵蛛眼",
+		"type": "minecraft:fermented_spider_eye",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/spider_eye_fermented.png"
+	},
+	{
+		"name": "回响碎片",
+		"type": "minecraft:echo_shard",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "龙息",
+		"type": "minecraft:dragon_breath",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/dragons_breath.png"
+	},
+	{
+		"name": "潜影壳",
+		"type": "minecraft:shulker_shell",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/shulker_shell.png"
+	},
+	{
+		"name": "恶魂之泪",
+		"type": "minecraft:ghast_tear",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/ghast_tear.png"
+	},
+	{
+		"name": "粘液球",
+		"type": "minecraft:slime_ball",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/slimeball.png"
+	},
+	{
+		"name": "末影珍珠",
+		"type": "minecraft:ender_pearl",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/ender_pearl.png"
+	},
+	{
+		"name": "末影之眼",
+		"type": "minecraft:ender_eye",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/ender_eye.png"
+	},
+	{
+		"name": "下界之星",
+		"type": "minecraft:nether_star",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/netherbrick.png"
+	},
+	{
+		"name": "末地烛",
+		"type": "minecraft:end_rod",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "避雷针",
+		"type": "minecraft:lightning_rod",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "末地水晶",
+		"type": "minecraft:end_crystal",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/end_crystal.png"
+	},
+	{
+		"name": "纸",
+		"type": "minecraft:paper",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/paper.png"
+	},
+	{
+		"name": "书",
+		"type": "minecraft:book",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/book_normal.png"
+	},
+	{
+		"name": "书与笔",
+		"type": "minecraft:writable_book",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/book_writable.png"
+	},
+	{
+		"name": "橡木船",
+		"type": "minecraft:oak_boat",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/boat_oak.png"
+	},
+	{
+		"name": "云杉木船",
+		"type": "minecraft:spruce_boat",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/boat_spruce.png"
+	},
+	{
+		"name": "白桦木船",
+		"type": "minecraft:birch_boat",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/boat_birch.png"
+	},
+	{
+		"name": "丛林木船",
+		"type": "minecraft:jungle_boat",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/boat_jungle.png"
+	},
+	{
+		"name": "金合欢木船",
+		"type": "minecraft:acacia_boat",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/boat_acacia.png"
+	},
+	{
+		"name": "深色橡木船",
+		"type": "minecraft:dark_oak_boat",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/boat_darkoak.png"
+	},
+	{
+		"name": "红树林船",
+		"type": "minecraft:mangrove_boat",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "橡木运输船",
+		"type": "minecraft:oak_chest_boat",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "云杉木运输船",
+		"type": "minecraft:spruce_chest_boat",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "白桦木运输船",
+		"type": "minecraft:birch_chest_boat",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "丛林木运输船",
+		"type": "minecraft:jungle_chest_boat",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "金合欢木运输船",
+		"type": "minecraft:acacia_chest_boat",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "深色橡木运输船",
+		"type": "minecraft:dark_oak_chest_boat",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "红树木运输船",
+		"type": "minecraft:mangrove_chest_boat",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "铁轨",
+		"type": "minecraft:rail",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "动力铁轨",
+		"type": "minecraft:golden_rail",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "探测铁轨",
+		"type": "minecraft:detector_rail",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "激活铁轨",
+		"type": "minecraft:activator_rail",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "矿车",
+		"type": "minecraft:minecart",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/minecart_normal.png"
+	},
+	{
+		"name": "运输矿车",
+		"type": "minecraft:chest_minecart",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/minecart_chest.png"
+	},
+	{
+		"name": "漏斗矿车",
+		"type": "minecraft:hopper_minecart",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/minecart_hopper.png"
+	},
+	{
+		"name": "TNT 矿车",
+		"type": "minecraft:tnt_minecart",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/minecart_tnt.png"
+	},
+	{
+		"name": "红石粉",
+		"type": "minecraft:redstone",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/redstone_dust.png"
+	},
+	{
+		"name": "红石块",
+		"type": "minecraft:redstone_block",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "红石火把",
+		"type": "minecraft:redstone_torch",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "拉杆",
+		"type": "minecraft:lever",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/lever.png"
+	},
+	{
+		"name": "橡木按钮",
+		"type": "minecraft:wooden_button",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "云杉按钮",
+		"type": "minecraft:spruce_button",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "白桦木按钮",
+		"type": "minecraft:birch_button",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "丛林木按钮",
+		"type": "minecraft:jungle_button",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "金合欢木按钮",
+		"type": "minecraft:acacia_button",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "深色橡木按钮",
+		"type": "minecraft:dark_oak_button",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "红树林按钮",
+		"type": "minecraft:mangrove_button",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "石头按钮",
+		"type": "minecraft:stone_button",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "绯红按钮",
+		"type": "minecraft:crimson_button",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "诡异木按钮",
+		"type": "minecraft:warped_button",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "磨制黑石按钮",
+		"type": "minecraft:polished_blackstone_button",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "绊线钩",
+		"type": "minecraft:tripwire_hook",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "橡木压力板",
+		"type": "minecraft:wooden_pressure_plate",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "云杉压力板",
+		"type": "minecraft:spruce_pressure_plate",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "白桦木压力板",
+		"type": "minecraft:birch_pressure_plate",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "丛林木压力板",
+		"type": "minecraft:jungle_pressure_plate",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "金合欢木压力板",
+		"type": "minecraft:acacia_pressure_plate",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "深色橡木压力板",
+		"type": "minecraft:dark_oak_pressure_plate",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "红树林压力板",
+		"type": "minecraft:mangrove_pressure_plate",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "绯红压力板",
+		"type": "minecraft:crimson_pressure_plate",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "诡异木压力板",
+		"type": "minecraft:warped_pressure_plate",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "石质压力板",
+		"type": "minecraft:stone_pressure_plate",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "测重压力板（轻型）",
+		"type": "minecraft:light_weighted_pressure_plate",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "测重压力板（重型）",
+		"type": "minecraft:heavy_weighted_pressure_plate",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "磨制黑石压力板",
+		"type": "minecraft:polished_blackstone_pressure_plate",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "侦测器",
+		"type": "minecraft:observer",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "阳光探测器",
+		"type": "minecraft:daylight_detector",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "红石中继器",
+		"type": "minecraft:repeater",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/repeater.png"
+	},
+	{
+		"name": "红石比较器",
+		"type": "minecraft:comparator",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/comparator.png"
+	},
+	{
+		"name": "漏斗",
+		"type": "minecraft:hopper",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/hopper.png"
+	},
+	{
+		"name": "投掷器",
+		"type": "minecraft:dropper",
+		"id": null,
+		"aux": 3,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "发射器",
+		"type": "minecraft:dispenser",
+		"id": null,
+		"aux": 3,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "活塞",
+		"type": "minecraft:piston",
+		"id": null,
+		"aux": 1,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "粘性活塞",
+		"type": "minecraft:sticky_piston",
+		"id": null,
+		"aux": 1,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "TNT",
+		"type": "minecraft:tnt",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "命名牌",
+		"type": "minecraft:name_tag",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/name_tag.png"
+	},
+	{
+		"name": "织布机",
+		"type": "minecraft:loom",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "黑色旗帜",
+		"type": "minecraft:banner",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "灰色旗帜",
+		"type": "minecraft:banner",
+		"id": null,
+		"aux": 8,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "淡灰色旗帜",
+		"type": "minecraft:banner",
+		"id": null,
+		"aux": 7,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "白色旗帜",
+		"type": "minecraft:banner",
+		"id": null,
+		"aux": 15,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "淡蓝色旗帜",
+		"type": "minecraft:banner",
+		"id": null,
+		"aux": 12,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "橙色旗帜",
+		"type": "minecraft:banner",
+		"id": null,
+		"aux": 14,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "红色旗帜",
+		"type": "minecraft:banner",
+		"id": null,
+		"aux": 1,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "蓝色旗帜",
+		"type": "minecraft:banner",
+		"id": null,
+		"aux": 4,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "紫色旗帜",
+		"type": "minecraft:banner",
+		"id": null,
+		"aux": 5,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "品红色旗帜",
+		"type": "minecraft:banner",
+		"id": null,
+		"aux": 13,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "粉红色旗帜",
+		"type": "minecraft:banner",
+		"id": null,
+		"aux": 9,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "棕色旗帜",
+		"type": "minecraft:banner",
+		"id": null,
+		"aux": 3,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "黄色旗帜",
+		"type": "minecraft:banner",
+		"id": null,
+		"aux": 11,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "黄绿色旗帜",
+		"type": "minecraft:banner",
+		"id": null,
+		"aux": 10,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "绿色旗帜",
+		"type": "minecraft:banner",
+		"id": null,
+		"aux": 2,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "青色旗帜",
+		"type": "minecraft:banner",
+		"id": null,
+		"aux": 6,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "灾厄村民旗帜",
+		"type": "minecraft:banner",
+		"id": null,
+		"aux": 15,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "旗帜图案",
+		"type": "minecraft:creeper_banner_pattern",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/banner_pattern.png"
+	},
+	{
+		"name": "旗帜图案",
+		"type": "minecraft:skull_banner_pattern",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "旗帜图案",
+		"type": "minecraft:flower_banner_pattern",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "旗帜图案",
+		"type": "minecraft:mojang_banner_pattern",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "旗帜图案",
+		"type": "minecraft:field_masoned_banner_pattern",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "旗帜图案",
+		"type": "minecraft:bordure_indented_banner_pattern",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "旗帜图案",
+		"type": "minecraft:piglin_banner_pattern",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "旗帜图案",
+		"type": "minecraft:globe_banner_pattern",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "焰火火箭",
+		"type": "minecraft:firework_rocket",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": "textures/items/fireworks.png"
+	},
+	{
+		"name": "焰火之星",
+		"type": "minecraft:firework_star",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "焰火之星",
+		"type": "minecraft:firework_star",
+		"id": null,
+		"aux": 8,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "焰火之星",
+		"type": "minecraft:firework_star",
+		"id": null,
+		"aux": 7,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "焰火之星",
+		"type": "minecraft:firework_star",
+		"id": null,
+		"aux": 15,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "焰火之星",
+		"type": "minecraft:firework_star",
+		"id": null,
+		"aux": 12,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "焰火之星",
+		"type": "minecraft:firework_star",
+		"id": null,
+		"aux": 14,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "焰火之星",
+		"type": "minecraft:firework_star",
+		"id": null,
+		"aux": 1,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "焰火之星",
+		"type": "minecraft:firework_star",
+		"id": null,
+		"aux": 4,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "焰火之星",
+		"type": "minecraft:firework_star",
+		"id": null,
+		"aux": 5,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "焰火之星",
+		"type": "minecraft:firework_star",
+		"id": null,
+		"aux": 13,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "焰火之星",
+		"type": "minecraft:firework_star",
+		"id": null,
+		"aux": 9,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "焰火之星",
+		"type": "minecraft:firework_star",
+		"id": null,
+		"aux": 3,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "焰火之星",
+		"type": "minecraft:firework_star",
+		"id": null,
+		"aux": 11,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "焰火之星",
+		"type": "minecraft:firework_star",
+		"id": null,
+		"aux": 10,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "焰火之星",
+		"type": "minecraft:firework_star",
+		"id": null,
+		"aux": 2,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "焰火之星",
+		"type": "minecraft:firework_star",
+		"id": null,
+		"aux": 6,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "锁链",
+		"type": "minecraft:chain",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "标靶",
+		"type": "minecraft:target",
+		"id": null,
+		"aux": 0,
+		"class": "物品",
+		"icon": null
+	},
+	{
+		"name": "下界疣方块",
+		"type": "minecraft:nether_wart_block",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "诡异疣方块",
+		"type": "minecraft:warped_wart_block",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "菌光体",
+		"type": "minecraft:shroomlight",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "绯红菌岩",
+		"type": "minecraft:crimson_nylium",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "诡异菌岩",
+		"type": "minecraft:warped_nylium",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "玄武岩",
+		"type": "minecraft:basalt",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "磨制玄武岩",
+		"type": "minecraft:polished_basalt",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "平滑玄武岩",
+		"type": "minecraft:smooth_basalt",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "灵魂土",
+		"type": "minecraft:soul_soil",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "泥土",
+		"type": "minecraft:dirt",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "砂土",
+		"type": "minecraft:dirt",
+		"id": null,
+		"aux": 1,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "农地",
+		"type": "minecraft:farmland",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "草方块",
+		"type": "minecraft:grass",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "土径",
+		"type": "minecraft:grass_path",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "灰化土",
+		"type": "minecraft:podzol",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "菌丝",
+		"type": "minecraft:mycelium",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "泥巴",
+		"type": "minecraft:mud",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "石头",
+		"type": "minecraft:stone",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "铁矿石",
+		"type": "minecraft:iron_ore",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "金矿石",
+		"type": "minecraft:gold_ore",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "钻石矿石",
+		"type": "minecraft:diamond_ore",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "青金石矿石",
+		"type": "minecraft:lapis_ore",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "红石矿石",
+		"type": "minecraft:redstone_ore",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "煤矿石",
+		"type": "minecraft:coal_ore",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "铜矿石",
+		"type": "minecraft:copper_ore",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "绿宝石矿石",
+		"type": "minecraft:emerald_ore",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "下界石英矿石",
+		"type": "minecraft:quartz_ore",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "下界金矿石",
+		"type": "minecraft:nether_gold_ore",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "远古残骸",
+		"type": "minecraft:ancient_debris",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "深层铁矿石",
+		"type": "minecraft:deepslate_iron_ore",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "深层金矿石",
+		"type": "minecraft:deepslate_gold_ore",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "深层钻石矿石",
+		"type": "minecraft:deepslate_diamond_ore",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "深板岩青金石矿石",
+		"type": "minecraft:deepslate_lapis_ore",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "深层红石矿石",
+		"type": "minecraft:deepslate_redstone_ore",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "深层绿宝石矿石",
+		"type": "minecraft:deepslate_emerald_ore",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "深层煤矿石",
+		"type": "minecraft:deepslate_coal_ore",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "深层铜矿石",
+		"type": "minecraft:deepslate_copper_ore",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "砂砾",
+		"type": "minecraft:gravel",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "花岗岩",
+		"type": "minecraft:stone",
+		"id": null,
+		"aux": 1,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "闪长岩",
+		"type": "minecraft:stone",
+		"id": null,
+		"aux": 3,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "安山岩",
+		"type": "minecraft:stone",
+		"id": null,
+		"aux": 5,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "黑石",
+		"type": "minecraft:blackstone",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "深板岩",
+		"type": "minecraft:deepslate",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "磨制花岗岩",
+		"type": "minecraft:stone",
+		"id": null,
+		"aux": 2,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "磨制闪长岩",
+		"type": "minecraft:stone",
+		"id": null,
+		"aux": 4,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "磨制安山岩",
+		"type": "minecraft:stone",
+		"id": null,
+		"aux": 6,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "磨制黑石",
+		"type": "minecraft:polished_blackstone",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "磨制深板岩",
+		"type": "minecraft:polished_deepslate",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "沙子",
+		"type": "minecraft:sand",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "红沙",
+		"type": "minecraft:sand",
+		"id": null,
+		"aux": 1,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "仙人掌",
+		"type": "minecraft:cactus",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "去皮橡树原木",
+		"type": "minecraft:stripped_oak_log",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "橡树原木",
+		"type": "minecraft:log",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "云杉原木",
+		"type": "minecraft:log",
+		"id": null,
+		"aux": 1,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "去皮云杉原木",
+		"type": "minecraft:stripped_spruce_log",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "桦树原木",
+		"type": "minecraft:log",
+		"id": null,
+		"aux": 2,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "去皮桦树原木",
+		"type": "minecraft:stripped_birch_log",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "丛林原木",
+		"type": "minecraft:log",
+		"id": null,
+		"aux": 3,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "去皮丛林原木",
+		"type": "minecraft:stripped_jungle_log",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "金合欢原木",
+		"type": "minecraft:log2",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "去皮金合欢原木",
+		"type": "minecraft:stripped_acacia_log",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "深色橡树原木",
+		"type": "minecraft:log2",
+		"id": null,
+		"aux": 1,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "去皮深色橡树原木",
+		"type": "minecraft:stripped_dark_oak_log",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "红树林原木",
+		"type": "minecraft:mangrove_log",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "去皮红树林原木",
+		"type": "minecraft:stripped_mangrove_log",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "绯红菌柄",
+		"type": "minecraft:crimson_stem",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "去皮绯红菌柄",
+		"type": "minecraft:stripped_crimson_stem",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "诡异菌柄",
+		"type": "minecraft:warped_stem",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "去皮诡异菌柄",
+		"type": "minecraft:stripped_warped_stem",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "橡木",
+		"type": "minecraft:wood",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "去皮橡木",
+		"type": "minecraft:wood",
+		"id": null,
+		"aux": 8,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "云杉木",
+		"type": "minecraft:wood",
+		"id": null,
+		"aux": 1,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "去皮云杉木",
+		"type": "minecraft:wood",
+		"id": null,
+		"aux": 9,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "白桦木",
+		"type": "minecraft:wood",
+		"id": null,
+		"aux": 2,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "去皮白桦木",
+		"type": "minecraft:wood",
+		"id": null,
+		"aux": 10,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "丛林木",
+		"type": "minecraft:wood",
+		"id": null,
+		"aux": 3,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "去皮丛林木",
+		"type": "minecraft:wood",
+		"id": null,
+		"aux": 11,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "金合欢木",
+		"type": "minecraft:wood",
+		"id": null,
+		"aux": 4,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "去皮金合欢木",
+		"type": "minecraft:wood",
+		"id": null,
+		"aux": 12,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "深色橡木",
+		"type": "minecraft:wood",
+		"id": null,
+		"aux": 5,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "去皮深色橡木",
+		"type": "minecraft:wood",
+		"id": null,
+		"aux": 13,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "红树林木头",
+		"type": "minecraft:mangrove_wood",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "去皮红树林木头",
+		"type": "minecraft:stripped_mangrove_wood",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "绯红菌丝",
+		"type": "minecraft:crimson_hyphae",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "去皮绯红菌丝",
+		"type": "minecraft:stripped_crimson_hyphae",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "诡异菌丝",
+		"type": "minecraft:warped_hyphae",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "去皮诡异菌丝",
+		"type": "minecraft:stripped_warped_hyphae",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "橡树叶",
+		"type": "minecraft:leaves",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "云杉叶",
+		"type": "minecraft:leaves",
+		"id": null,
+		"aux": 1,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "桦树叶",
+		"type": "minecraft:leaves",
+		"id": null,
+		"aux": 2,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "丛林树叶",
+		"type": "minecraft:leaves",
+		"id": null,
+		"aux": 3,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "金合欢树叶",
+		"type": "minecraft:leaves2",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "深色橡树叶",
+		"type": "minecraft:leaves2",
+		"id": null,
+		"aux": 1,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "红树林树叶",
+		"type": "minecraft:mangrove_leaves",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "杜鹃花叶",
+		"type": "minecraft:azalea_leaves",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "盛开的杜鹃花树叶",
+		"type": "minecraft:azalea_leaves_flowered",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "橡树苗",
+		"type": "minecraft:sapling",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "云杉树苗",
+		"type": "minecraft:sapling",
+		"id": null,
+		"aux": 1,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "桦树苗",
+		"type": "minecraft:sapling",
+		"id": null,
+		"aux": 2,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "丛林树苗",
+		"type": "minecraft:sapling",
+		"id": null,
+		"aux": 3,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "金合欢树苗",
+		"type": "minecraft:sapling",
+		"id": null,
+		"aux": 4,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "深色橡树苗",
+		"type": "minecraft:sapling",
+		"id": null,
+		"aux": 5,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "红树林繁殖体",
+		"type": "minecraft:mangrove_propagule",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "蜂巢",
+		"type": "minecraft:bee_nest",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "种子",
+		"type": "minecraft:wheat_seeds",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/seeds_wheat.png"
+	},
+	{
+		"name": "南瓜种子",
+		"type": "minecraft:pumpkin_seeds",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/seeds_pumpkin.png"
+	},
+	{
+		"name": "西瓜种子",
+		"type": "minecraft:melon_seeds",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/seeds_melon.png"
+	},
+	{
+		"name": "甜菜种子",
+		"type": "minecraft:beetroot_seeds",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/seeds_beetroot.png"
+	},
+	{
+		"name": "小麦",
+		"type": "minecraft:wheat",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/wheat.png"
+	},
+	{
+		"name": "甜菜根",
+		"type": "minecraft:beetroot",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/beetroot.png"
+	},
+	{
+		"name": "马铃薯",
+		"type": "minecraft:potato",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/potato.png"
+	},
+	{
+		"name": "毒马铃薯",
+		"type": "minecraft:poisonous_potato",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/potato_poisonous.png"
+	},
+	{
+		"name": "胡萝卜",
+		"type": "minecraft:carrot",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/carrot.png"
+	},
+	{
+		"name": "金胡萝卜",
+		"type": "minecraft:golden_carrot",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/carrot_golden.png"
+	},
+	{
+		"name": "苹果",
+		"type": "minecraft:apple",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/apple.png"
+	},
+	{
+		"name": "金苹果",
+		"type": "minecraft:golden_apple",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/apple_golden.png"
+	},
+	{
+		"name": "附魔金苹果",
+		"type": "minecraft:enchanted_golden_apple",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "西瓜",
+		"type": "minecraft:melon_block",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "西瓜片",
+		"type": "minecraft:melon_slice",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/melon.png"
+	},
+	{
+		"name": "闪烁的西瓜片",
+		"type": "minecraft:glistering_melon_slice",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/melon_speckled.png"
+	},
+	{
+		"name": "甜浆果",
+		"type": "minecraft:sweet_berries",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/sweet_berries.png"
+	},
+	{
+		"name": "发光浆果",
+		"type": "minecraft:glow_berries",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "南瓜",
+		"type": "minecraft:pumpkin",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "雕刻过的南瓜",
+		"type": "minecraft:carved_pumpkin",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "南瓜灯",
+		"type": "minecraft:lit_pumpkin",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "蜜脾",
+		"type": "minecraft:honeycomb",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "蕨",
+		"type": "minecraft:tallgrass",
+		"id": null,
+		"aux": 2,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "大型蕨",
+		"type": "minecraft:double_plant",
+		"id": null,
+		"aux": 3,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "草",
+		"type": "minecraft:tallgrass",
+		"id": null,
+		"aux": 1,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "高草丛",
+		"type": "minecraft:double_plant",
+		"id": null,
+		"aux": 2,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "下界苗",
+		"type": "minecraft:nether_sprouts",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "火珊瑚",
+		"type": "minecraft:coral",
+		"id": null,
+		"aux": 3,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "脑纹珊瑚",
+		"type": "minecraft:coral",
+		"id": null,
+		"aux": 1,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "气泡珊瑚",
+		"type": "minecraft:coral",
+		"id": null,
+		"aux": 2,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "管珊瑚",
+		"type": "minecraft:coral",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "鹿角珊瑚",
+		"type": "minecraft:coral",
+		"id": null,
+		"aux": 4,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "失活的火珊瑚",
+		"type": "minecraft:coral",
+		"id": null,
+		"aux": 11,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "失活的脑纹珊瑚",
+		"type": "minecraft:coral",
+		"id": null,
+		"aux": 9,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "失活的气泡珊瑚",
+		"type": "minecraft:coral",
+		"id": null,
+		"aux": 10,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "失活的管珊瑚",
+		"type": "minecraft:coral",
+		"id": null,
+		"aux": 8,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "失活的鹿角珊瑚",
+		"type": "minecraft:coral",
+		"id": null,
+		"aux": 12,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "火珊瑚扇",
+		"type": "minecraft:coral_fan",
+		"id": null,
+		"aux": 3,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "脑纹珊瑚扇",
+		"type": "minecraft:coral_fan",
+		"id": null,
+		"aux": 1,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "气泡珊瑚扇",
+		"type": "minecraft:coral_fan",
+		"id": null,
+		"aux": 2,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "管珊瑚扇",
+		"type": "minecraft:coral_fan",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "鹿角珊瑚扇",
+		"type": "minecraft:coral_fan",
+		"id": null,
+		"aux": 4,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "失活的火珊瑚扇",
+		"type": "minecraft:coral_fan_dead",
+		"id": null,
+		"aux": 3,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "失活的脑纹珊瑚扇",
+		"type": "minecraft:coral_fan_dead",
+		"id": null,
+		"aux": 1,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "失活的气泡珊瑚扇",
+		"type": "minecraft:coral_fan_dead",
+		"id": null,
+		"aux": 2,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "失活的管珊瑚扇",
+		"type": "minecraft:coral_fan_dead",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "失活的鹿角珊瑚扇",
+		"type": "minecraft:coral_fan_dead",
+		"id": null,
+		"aux": 4,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "绯红菌索",
+		"type": "minecraft:crimson_roots",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "诡异菌根",
+		"type": "minecraft:warped_roots",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "蒲公英",
+		"type": "minecraft:yellow_flower",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "虞美人",
+		"type": "minecraft:red_flower",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "兰花",
+		"type": "minecraft:red_flower",
+		"id": null,
+		"aux": 1,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "绒球葱",
+		"type": "minecraft:red_flower",
+		"id": null,
+		"aux": 2,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "蓝花美耳草",
+		"type": "minecraft:red_flower",
+		"id": null,
+		"aux": 3,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "红色郁金香",
+		"type": "minecraft:red_flower",
+		"id": null,
+		"aux": 4,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "橙色郁金香",
+		"type": "minecraft:red_flower",
+		"id": null,
+		"aux": 5,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "白色郁金香",
+		"type": "minecraft:red_flower",
+		"id": null,
+		"aux": 6,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "粉红色郁金香",
+		"type": "minecraft:red_flower",
+		"id": null,
+		"aux": 7,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "滨菊",
+		"type": "minecraft:red_flower",
+		"id": null,
+		"aux": 8,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "矢车菊",
+		"type": "minecraft:red_flower",
+		"id": null,
+		"aux": 9,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "铃兰",
+		"type": "minecraft:red_flower",
+		"id": null,
+		"aux": 10,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "向日葵",
+		"type": "minecraft:double_plant",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "丁香",
+		"type": "minecraft:double_plant",
+		"id": null,
+		"aux": 1,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "玫瑰丛",
+		"type": "minecraft:double_plant",
+		"id": null,
+		"aux": 4,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "牡丹",
+		"type": "minecraft:double_plant",
+		"id": null,
+		"aux": 5,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "凋零玫瑰",
+		"type": "minecraft:wither_rose",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "白色染料",
+		"type": "minecraft:white_dye",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/dye_powder_white_new.png"
+	},
+	{
+		"name": "淡灰色染料",
+		"type": "minecraft:light_gray_dye",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/dye_powder_silver.png"
+	},
+	{
+		"name": "灰色染料",
+		"type": "minecraft:gray_dye",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/dye_powder_gray.png"
+	},
+	{
+		"name": "黑色染料",
+		"type": "minecraft:black_dye",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/dye_powder_black_new.png"
+	},
+	{
+		"name": "棕色染料",
+		"type": "minecraft:brown_dye",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/dye_powder_brown_new.png"
+	},
+	{
+		"name": "红色染料",
+		"type": "minecraft:red_dye",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/dye_powder_red.png"
+	},
+	{
+		"name": "橙色染料",
+		"type": "minecraft:orange_dye",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/dye_powder_orange.png"
+	},
+	{
+		"name": "黄色染料",
+		"type": "minecraft:yellow_dye",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/dye_powder_yellow.png"
+	},
+	{
+		"name": "黄绿色染料",
+		"type": "minecraft:lime_dye",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/dye_powder_lime.png"
+	},
+	{
+		"name": "绿色染料",
+		"type": "minecraft:green_dye",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/dye_powder_green.png"
+	},
+	{
+		"name": "青色染料",
+		"type": "minecraft:cyan_dye",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/dye_powder_cyan.png"
+	},
+	{
+		"name": "淡蓝色染料",
+		"type": "minecraft:light_blue_dye",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/dye_powder_light_blue.png"
+	},
+	{
+		"name": "蓝色染料",
+		"type": "minecraft:blue_dye",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/dye_powder_blue_new.png"
+	},
+	{
+		"name": "紫色染料",
+		"type": "minecraft:purple_dye",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/dye_powder_purple.png"
+	},
+	{
+		"name": "品红色染料",
+		"type": "minecraft:magenta_dye",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/dye_powder_magenta.png"
+	},
+	{
+		"name": "粉红色染料",
+		"type": "minecraft:pink_dye",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/dye_powder_pink.png"
+	},
+	{
+		"name": "墨囊",
+		"type": "minecraft:ink_sac",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/dye_powder_black.png"
+	},
+	{
+		"name": "荧光墨囊",
+		"type": "minecraft:glow_ink_sac",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "可可豆",
+		"type": "minecraft:cocoa_beans",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/dye_powder_brown.png"
+	},
+	{
+		"name": "青金石",
+		"type": "minecraft:lapis_lazuli",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/dye_powder_blue.png"
+	},
+	{
+		"name": "骨粉",
+		"type": "minecraft:bone_meal",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/dye_powder_white.png"
+	},
+	{
+		"name": "藤蔓",
+		"type": "minecraft:vine",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "垂泪藤",
+		"type": "minecraft:weeping_vines",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "缠怨藤",
+		"type": "minecraft:twisting_vines",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "睡莲",
+		"type": "minecraft:waterlily",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "海草",
+		"type": "minecraft:seagrass",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "海带",
+		"type": "minecraft:kelp",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/kelp.png"
+	},
+	{
+		"name": "枯萎的灌木",
+		"type": "minecraft:deadbush",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "竹子",
+		"type": "minecraft:bamboo",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/bamboo.png"
+	},
+	{
+		"name": "雪",
+		"type": "minecraft:snow",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "冰",
+		"type": "minecraft:ice",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "浮冰",
+		"type": "minecraft:packed_ice",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "蓝冰",
+		"type": "minecraft:blue_ice",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "顶层雪",
+		"type": "minecraft:snow_layer",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "滴水石锥",
+		"type": "minecraft:pointed_dripstone",
+		"id": null,
+		"aux": 8,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "滴水石块",
+		"type": "minecraft:dripstone_block",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "苔藓地毯",
+		"type": "minecraft:moss_carpet",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "苔藓块",
+		"type": "minecraft:moss_block",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "缠根泥土",
+		"type": "minecraft:dirt_with_roots",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "垂根",
+		"type": "minecraft:hanging_roots",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "红树根",
+		"type": "minecraft:mangrove_roots",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "沾泥的红树根",
+		"type": "minecraft:muddy_mangrove_roots",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "大型垂滴叶",
+		"type": "minecraft:big_dripleaf",
+		"id": null,
+		"aux": 4,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "小型垂滴叶",
+		"type": "minecraft:small_dripleaf_block",
+		"id": null,
+		"aux": 7,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "孢子花",
+		"type": "minecraft:spore_blossom",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "杜鹃花",
+		"type": "minecraft:azalea",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "盛开的杜鹃花",
+		"type": "minecraft:flowering_azalea",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "发光地衣",
+		"type": "minecraft:glow_lichen",
+		"id": null,
+		"aux": 63,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "紫水晶方块",
+		"type": "minecraft:amethyst_block",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "紫水晶母岩",
+		"type": "minecraft:budding_amethyst",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "紫水晶簇",
+		"type": "minecraft:amethyst_cluster",
+		"id": null,
+		"aux": 1,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "大型紫晶芽",
+		"type": "minecraft:large_amethyst_bud",
+		"id": null,
+		"aux": 1,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "中型紫晶芽",
+		"type": "minecraft:medium_amethyst_bud",
+		"id": null,
+		"aux": 1,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "小型紫晶芽",
+		"type": "minecraft:small_amethyst_bud",
+		"id": null,
+		"aux": 1,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "凝灰岩",
+		"type": "minecraft:tuff",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "方解石",
+		"type": "minecraft:calcite",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "生鸡肉",
+		"type": "minecraft:chicken",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/chicken_raw.png"
+	},
+	{
+		"name": "生猪排",
+		"type": "minecraft:porkchop",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/porkchop_raw.png"
+	},
+	{
+		"name": "生牛肉",
+		"type": "minecraft:beef",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/beef_raw.png"
+	},
+	{
+		"name": "生羊肉",
+		"type": "minecraft:mutton",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/mutton_raw.png"
+	},
+	{
+		"name": "生兔肉",
+		"type": "minecraft:rabbit",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/rabbit_raw.png"
+	},
+	{
+		"name": "生鳕鱼",
+		"type": "minecraft:cod",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/fish_raw.png"
+	},
+	{
+		"name": "生鲑鱼",
+		"type": "minecraft:salmon",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/fish_salmon_raw.png"
+	},
+	{
+		"name": "热带鱼",
+		"type": "minecraft:tropical_fish",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/fish_clownfish_raw.png"
+	},
+	{
+		"name": "河豚",
+		"type": "minecraft:pufferfish",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/fish_pufferfish_raw.png"
+	},
+	{
+		"name": "棕色蘑菇",
+		"type": "minecraft:brown_mushroom",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "红蘑菇",
+		"type": "minecraft:red_mushroom",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "绯红菌",
+		"type": "minecraft:crimson_fungus",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "诡异真菌",
+		"type": "minecraft:warped_fungus",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "棕色蘑菇方块",
+		"type": "minecraft:brown_mushroom_block",
+		"id": null,
+		"aux": 14,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "红蘑菇方块",
+		"type": "minecraft:red_mushroom_block",
+		"id": null,
+		"aux": 14,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "蘑菇柄",
+		"type": "minecraft:brown_mushroom_block",
+		"id": null,
+		"aux": 15,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "蘑菇",
+		"type": "minecraft:brown_mushroom_block",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "鸡蛋",
+		"type": "minecraft:egg",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/egg.png"
+	},
+	{
+		"name": "甘蔗",
+		"type": "minecraft:sugar_cane",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/reeds.png"
+	},
+	{
+		"name": "糖",
+		"type": "minecraft:sugar",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/sugar.png"
+	},
+	{
+		"name": "腐肉",
+		"type": "minecraft:rotten_flesh",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/rotten_flesh.png"
+	},
+	{
+		"name": "骨头",
+		"type": "minecraft:bone",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/bone.png"
+	},
+	{
+		"name": "蜘蛛网",
+		"type": "minecraft:web",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "蜘蛛眼",
+		"type": "minecraft:spider_eye",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/spider_eye.png"
+	},
+	{
+		"name": "刷怪箱",
+		"type": "minecraft:mob_spawner",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "被虫蚀的石头",
+		"type": "minecraft:monster_egg",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "被虫蚀的圆石",
+		"type": "minecraft:monster_egg",
+		"id": null,
+		"aux": 1,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "被虫蚀的石砖",
+		"type": "minecraft:monster_egg",
+		"id": null,
+		"aux": 2,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "被虫蚀的苔石砖",
+		"type": "minecraft:monster_egg",
+		"id": null,
+		"aux": 3,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "被虫蚀的裂纹石砖",
+		"type": "minecraft:monster_egg",
+		"id": null,
+		"aux": 4,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "被虫蚀的錾制石砖",
+		"type": "minecraft:monster_egg",
+		"id": null,
+		"aux": 5,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "被虫蚀的深板岩",
+		"type": "minecraft:infested_deepslate",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "龙蛋",
+		"type": "minecraft:dragon_egg",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "海龟蛋",
+		"type": "minecraft:turtle_egg",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/turtle_egg.png"
+	},
+	{
+		"name": "青蛙卵",
+		"type": "minecraft:frog_spawn",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "珠光蛙明灯",
+		"type": "minecraft:pearlescent_froglight",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "青翠蛙明灯",
+		"type": "minecraft:verdant_froglight",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "赭黄蛙明灯",
+		"type": "minecraft:ochre_froglight",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "黑曜石",
+		"type": "minecraft:obsidian",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "哭泣的黑曜石",
+		"type": "minecraft:crying_obsidian",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "基岩",
+		"type": "minecraft:bedrock",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "灵魂沙",
+		"type": "minecraft:soul_sand",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "下界岩",
+		"type": "minecraft:netherrack",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "岩浆块",
+		"type": "minecraft:magma",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "下界疣",
+		"type": "minecraft:nether_wart",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/nether_wart.png"
+	},
+	{
+		"name": "末地石",
+		"type": "minecraft:end_stone",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "紫颂花",
+		"type": "minecraft:chorus_flower",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "紫颂植株",
+		"type": "minecraft:chorus_plant",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "紫颂果",
+		"type": "minecraft:chorus_fruit",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/chorus_fruit.png"
+	},
+	{
+		"name": "爆裂紫颂果",
+		"type": "minecraft:popped_chorus_fruit",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": "textures/items/chorus_fruit_popped.png"
+	},
+	{
+		"name": "海绵",
+		"type": "minecraft:sponge",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "湿海绵",
+		"type": "minecraft:sponge",
+		"id": null,
+		"aux": 1,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "管珊瑚块",
+		"type": "minecraft:coral_block",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "脑纹珊瑚块",
+		"type": "minecraft:coral_block",
+		"id": null,
+		"aux": 1,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "气泡珊瑚块",
+		"type": "minecraft:coral_block",
+		"id": null,
+		"aux": 2,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "火珊瑚块",
+		"type": "minecraft:coral_block",
+		"id": null,
+		"aux": 3,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "鹿角珊瑚块",
+		"type": "minecraft:coral_block",
+		"id": null,
+		"aux": 4,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "失活的管珊瑚块",
+		"type": "minecraft:coral_block",
+		"id": null,
+		"aux": 8,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "失活的脑纹珊瑚块",
+		"type": "minecraft:coral_block",
+		"id": null,
+		"aux": 9,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "失活的气泡珊瑚块",
+		"type": "minecraft:coral_block",
+		"id": null,
+		"aux": 10,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "失活的鹿角珊瑚块",
+		"type": "minecraft:coral_block",
+		"id": null,
+		"aux": 12,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "失活的火珊瑚块",
+		"type": "minecraft:coral_block",
+		"id": null,
+		"aux": 11,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "潜声",
+		"type": "minecraft:sculk",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "幽匿脉络",
+		"type": "minecraft:sculk_vein",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "幽匿催发体",
+		"type": "minecraft:sculk_catalyst",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "幽匿尖啸体",
+		"type": "minecraft:sculk_shrieker",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "幽匿感测体",
+		"type": "minecraft:sculk_sensor",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	},
+	{
+		"name": "强化深板岩",
+		"type": "minecraft:reinforced_deepslate",
+		"id": null,
+		"aux": 0,
+		"class": "自然",
+		"icon": null
+	}
+]
