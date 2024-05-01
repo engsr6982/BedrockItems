@@ -2,7 +2,7 @@
 
 Minecraft 基岩版所有物品列表。
 
-JSON 结构
+## JSON 结构
 
 ```json
 [
@@ -18,7 +18,14 @@ JSON 结构
 ]
 ```
 
-文件夹结构
+## 文件结构
 
-/Json/ 存放每个版本的物品列表
-/Icon/ 存放每个物品的贴图
+/repo/README.md  仓库描述文件  
+/repo/list.json  物品列表json  
+/repo/textures/  原版icon图片  
+
+本仓库使用tag管理版本  
+
+v + Minecraft版本 + - + 修订号
+
+如：v1.19.73-1
