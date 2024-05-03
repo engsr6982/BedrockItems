@@ -29,3 +29,7 @@ Minecraft 基岩版所有物品列表。
 v + Minecraft版本 + - + 修订号
 
 如：v1.19.73-1
+
+## License
+
+LGPL 3.0
