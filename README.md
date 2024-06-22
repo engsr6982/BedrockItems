@@ -20,10 +20,6 @@ Minecraft 基岩版所有物品列表。
 
 ## 文件结构
 
-/repo/README.md  仓库描述文件  
-/repo/list.json  物品列表json  
-/repo/textures/  原版icon图片  
-
 本仓库使用tag管理版本  
 
 v + Minecraft版本 + - + 修订号
@@ -32,4 +28,4 @@ v + Minecraft版本 + - + 修订号
 
 ## License
 
-LGPL 3.0
+LGPL 2.1 / 3.0
