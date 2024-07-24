@@ -1,30 +1,12 @@
-# Minecraft Item List
+# BedrockItems
 
-Minecraft 基岩版所有物品列表。
+Minecraft Bedrock Items
 
-## JSON 结构
+本仓库使用 tag 管理版本
 
-```json
-[
-  {
-    "name": "游戏内显示的物品名称",
-    "id": "物品的游戏内id",
-    "type": "物品标准类型名",
-    "aux": "物品的特殊值（用于区分同Type不同Aux的物品）",
+v + Minecraft 版本 + - + 修订号
 
-    "icon": "物品贴图路径",
-    "class": "物品类别"
-  }
-]
-```
-
-## 文件结构
-
-本仓库使用tag管理版本  
-
-v + Minecraft版本 + - + 修订号
-
-如：v1.19.73-1
+> v1.21.0-1
 
 ## License
 
