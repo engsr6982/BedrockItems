@@ -1529,7 +1529,7 @@
         },
         {
             "aux": 0,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.sparkler.black.name",
             "effectName": "",
             "fullName": "minecraft:sparkler",
@@ -1539,7 +1539,7 @@
         },
         {
             "aux": 1,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.sparkler.red.name",
             "effectName": "",
             "fullName": "minecraft:sparkler",
@@ -1549,7 +1549,7 @@
         },
         {
             "aux": 2,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.sparkler.green.name",
             "effectName": "",
             "fullName": "minecraft:sparkler",
@@ -1559,7 +1559,7 @@
         },
         {
             "aux": 3,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.sparkler.brown.name",
             "effectName": "",
             "fullName": "minecraft:sparkler",
@@ -1569,7 +1569,7 @@
         },
         {
             "aux": 4,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.sparkler.blue.name",
             "effectName": "",
             "fullName": "minecraft:sparkler",
@@ -1579,7 +1579,7 @@
         },
         {
             "aux": 5,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.sparkler.purple.name",
             "effectName": "",
             "fullName": "minecraft:sparkler",
@@ -1589,7 +1589,7 @@
         },
         {
             "aux": 6,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.sparkler.cyan.name",
             "effectName": "",
             "fullName": "minecraft:sparkler",
@@ -1599,7 +1599,7 @@
         },
         {
             "aux": 7,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.sparkler.silver.name",
             "effectName": "",
             "fullName": "minecraft:sparkler",
@@ -1609,7 +1609,7 @@
         },
         {
             "aux": 8,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.sparkler.gray.name",
             "effectName": "",
             "fullName": "minecraft:sparkler",
@@ -1619,7 +1619,7 @@
         },
         {
             "aux": 9,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.sparkler.pink.name",
             "effectName": "",
             "fullName": "minecraft:sparkler",
@@ -1629,7 +1629,7 @@
         },
         {
             "aux": 10,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.sparkler.lime.name",
             "effectName": "",
             "fullName": "minecraft:sparkler",
@@ -1639,7 +1639,7 @@
         },
         {
             "aux": 11,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.sparkler.yellow.name",
             "effectName": "",
             "fullName": "minecraft:sparkler",
@@ -1649,7 +1649,7 @@
         },
         {
             "aux": 12,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.sparkler.lightBlue.name",
             "effectName": "",
             "fullName": "minecraft:sparkler",
@@ -1659,7 +1659,7 @@
         },
         {
             "aux": 13,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.sparkler.magenta.name",
             "effectName": "",
             "fullName": "minecraft:sparkler",
@@ -1669,7 +1669,7 @@
         },
         {
             "aux": 14,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.sparkler.orange.name",
             "effectName": "",
             "fullName": "minecraft:sparkler",
@@ -1679,7 +1679,7 @@
         },
         {
             "aux": 15,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.sparkler.white.name",
             "effectName": "",
             "fullName": "minecraft:sparkler",
@@ -7759,7 +7759,7 @@
         },
         {
             "aux": 0,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.bleach.name",
             "effectName": "",
             "fullName": "minecraft:bleach",
@@ -8449,7 +8449,7 @@
         },
         {
             "aux": 0,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.rapid_fertilizer.name",
             "effectName": "",
             "fullName": "minecraft:rapid_fertilizer",
@@ -10719,7 +10719,7 @@
         },
         {
             "aux": 0,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.balloon.white.name",
             "effectName": "",
             "fullName": "minecraft:balloon",
@@ -10729,7 +10729,7 @@
         },
         {
             "aux": 1,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.balloon.orange.name",
             "effectName": "",
             "fullName": "minecraft:balloon",
@@ -10739,7 +10739,7 @@
         },
         {
             "aux": 2,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.balloon.magenta.name",
             "effectName": "",
             "fullName": "minecraft:balloon",
@@ -10749,7 +10749,7 @@
         },
         {
             "aux": 3,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.balloon.lightBlue.name",
             "effectName": "",
             "fullName": "minecraft:balloon",
@@ -10759,7 +10759,7 @@
         },
         {
             "aux": 4,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.balloon.yellow.name",
             "effectName": "",
             "fullName": "minecraft:balloon",
@@ -10769,7 +10769,7 @@
         },
         {
             "aux": 5,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.balloon.lime.name",
             "effectName": "",
             "fullName": "minecraft:balloon",
@@ -10779,7 +10779,7 @@
         },
         {
             "aux": 6,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.balloon.pink.name",
             "effectName": "",
             "fullName": "minecraft:balloon",
@@ -10789,7 +10789,7 @@
         },
         {
             "aux": 7,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.balloon.gray.name",
             "effectName": "",
             "fullName": "minecraft:balloon",
@@ -10799,7 +10799,7 @@
         },
         {
             "aux": 8,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.balloon.silver.name",
             "effectName": "",
             "fullName": "minecraft:balloon",
@@ -10809,7 +10809,7 @@
         },
         {
             "aux": 9,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.balloon.cyan.name",
             "effectName": "",
             "fullName": "minecraft:balloon",
@@ -10819,7 +10819,7 @@
         },
         {
             "aux": 10,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.balloon.purple.name",
             "effectName": "",
             "fullName": "minecraft:balloon",
@@ -10829,7 +10829,7 @@
         },
         {
             "aux": 11,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.balloon.blue.name",
             "effectName": "",
             "fullName": "minecraft:balloon",
@@ -10839,7 +10839,7 @@
         },
         {
             "aux": 12,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.balloon.brown.name",
             "effectName": "",
             "fullName": "minecraft:balloon",
@@ -10849,7 +10849,7 @@
         },
         {
             "aux": 13,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.balloon.green.name",
             "effectName": "",
             "fullName": "minecraft:balloon",
@@ -10859,7 +10859,7 @@
         },
         {
             "aux": 14,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.balloon.red.name",
             "effectName": "",
             "fullName": "minecraft:balloon",
@@ -10869,7 +10869,7 @@
         },
         {
             "aux": 15,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.balloon.black.name",
             "effectName": "",
             "fullName": "minecraft:balloon",
@@ -11349,7 +11349,7 @@
         },
         {
             "aux": 0,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.salt.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11359,7 +11359,7 @@
         },
         {
             "aux": 1,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.sodiumoxide.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11369,7 +11369,7 @@
         },
         {
             "aux": 2,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.sodiumhydroxide.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11379,7 +11379,7 @@
         },
         {
             "aux": 3,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.magnesiumnitrate.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11389,7 +11389,7 @@
         },
         {
             "aux": 4,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.ironsulfide.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11399,7 +11399,7 @@
         },
         {
             "aux": 5,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.lithiumhydride.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11409,7 +11409,7 @@
         },
         {
             "aux": 6,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.sodiumhydride.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11419,7 +11419,7 @@
         },
         {
             "aux": 7,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.calciumbromide.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11429,7 +11429,7 @@
         },
         {
             "aux": 8,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.magnesiumoxide.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11439,7 +11439,7 @@
         },
         {
             "aux": 9,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.sodiumacetate.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11449,7 +11449,7 @@
         },
         {
             "aux": 10,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.luminol.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11459,7 +11459,7 @@
         },
         {
             "aux": 11,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.charcoal.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11469,7 +11469,7 @@
         },
         {
             "aux": 12,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.sugar.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11479,7 +11479,7 @@
         },
         {
             "aux": 13,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.aluminumoxide.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11489,7 +11489,7 @@
         },
         {
             "aux": 14,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.borontrioxide.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11499,7 +11499,7 @@
         },
         {
             "aux": 15,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.soap.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11509,7 +11509,7 @@
         },
         {
             "aux": 16,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.polyethylene.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11519,7 +11519,7 @@
         },
         {
             "aux": 17,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.garbage.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11529,7 +11529,7 @@
         },
         {
             "aux": 18,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.magnesiumsalts.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11539,7 +11539,7 @@
         },
         {
             "aux": 19,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.sulfate.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11549,7 +11549,7 @@
         },
         {
             "aux": 20,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.bariumsulfate.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11559,7 +11559,7 @@
         },
         {
             "aux": 21,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.potassiumchloride.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11569,7 +11569,7 @@
         },
         {
             "aux": 22,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.mercuricchloride.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11579,7 +11579,7 @@
         },
         {
             "aux": 23,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.ceriumchloride.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11589,7 +11589,7 @@
         },
         {
             "aux": 24,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.tungstenchloride.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11599,7 +11599,7 @@
         },
         {
             "aux": 25,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.calciumchloride.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11609,7 +11609,7 @@
         },
         {
             "aux": 26,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.water.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11619,7 +11619,7 @@
         },
         {
             "aux": 27,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.glue.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11629,7 +11629,7 @@
         },
         {
             "aux": 28,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.hypochlorite.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11639,7 +11639,7 @@
         },
         {
             "aux": 29,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.crudeoil.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11649,7 +11649,7 @@
         },
         {
             "aux": 30,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.latex.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11659,7 +11659,7 @@
         },
         {
             "aux": 31,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.potassiumiodide.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11669,7 +11669,7 @@
         },
         {
             "aux": 32,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.sodiumfluoride.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11679,7 +11679,7 @@
         },
         {
             "aux": 33,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.benzene.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11689,7 +11689,7 @@
         },
         {
             "aux": 34,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.ink.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11699,7 +11699,7 @@
         },
         {
             "aux": 35,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.hydrogenperoxide.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11709,7 +11709,7 @@
         },
         {
             "aux": 36,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.ammonia.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11719,7 +11719,7 @@
         },
         {
             "aux": 37,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.compound.sodiumhypochlorite.name",
             "effectName": "",
             "fullName": "minecraft:compound",
@@ -11739,7 +11739,7 @@
         },
         {
             "aux": 0,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.ice_bomb.name",
             "effectName": "",
             "fullName": "minecraft:ice_bomb",
@@ -11749,7 +11749,7 @@
         },
         {
             "aux": 0,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.medicine.blindness.name",
             "effectName": "",
             "fullName": "minecraft:medicine",
@@ -11759,7 +11759,7 @@
         },
         {
             "aux": 1,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.medicine.nausea.name",
             "effectName": "",
             "fullName": "minecraft:medicine",
@@ -11769,7 +11769,7 @@
         },
         {
             "aux": 2,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.medicine.poison.name",
             "effectName": "",
             "fullName": "minecraft:medicine",
@@ -11779,7 +11779,7 @@
         },
         {
             "aux": 3,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.medicine.weakness.name",
             "effectName": "",
             "fullName": "minecraft:medicine",
@@ -11799,7 +11799,7 @@
         },
         {
             "aux": 1,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.glow_stick.red.name",
             "effectName": "",
             "fullName": "minecraft:glow_stick",
@@ -11809,7 +11809,7 @@
         },
         {
             "aux": 2,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.glow_stick.green.name",
             "effectName": "",
             "fullName": "minecraft:glow_stick",
@@ -11819,7 +11819,7 @@
         },
         {
             "aux": 3,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.glow_stick.brown.name",
             "effectName": "",
             "fullName": "minecraft:glow_stick",
@@ -11829,7 +11829,7 @@
         },
         {
             "aux": 4,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.glow_stick.blue.name",
             "effectName": "",
             "fullName": "minecraft:glow_stick",
@@ -11839,7 +11839,7 @@
         },
         {
             "aux": 5,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.glow_stick.purple.name",
             "effectName": "",
             "fullName": "minecraft:glow_stick",
@@ -11849,7 +11849,7 @@
         },
         {
             "aux": 6,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.glow_stick.cyan.name",
             "effectName": "",
             "fullName": "minecraft:glow_stick",
@@ -11859,7 +11859,7 @@
         },
         {
             "aux": 8,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.glow_stick.gray.name",
             "effectName": "",
             "fullName": "minecraft:glow_stick",
@@ -11869,7 +11869,7 @@
         },
         {
             "aux": 9,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.glow_stick.pink.name",
             "effectName": "",
             "fullName": "minecraft:glow_stick",
@@ -11879,7 +11879,7 @@
         },
         {
             "aux": 10,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.glow_stick.lime.name",
             "effectName": "",
             "fullName": "minecraft:glow_stick",
@@ -11889,7 +11889,7 @@
         },
         {
             "aux": 11,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.glow_stick.yellow.name",
             "effectName": "",
             "fullName": "minecraft:glow_stick",
@@ -11899,7 +11899,7 @@
         },
         {
             "aux": 12,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.glow_stick.lightBlue.name",
             "effectName": "",
             "fullName": "minecraft:glow_stick",
@@ -11909,7 +11909,7 @@
         },
         {
             "aux": 13,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.glow_stick.magenta.name",
             "effectName": "",
             "fullName": "minecraft:glow_stick",
@@ -11919,7 +11919,7 @@
         },
         {
             "aux": 14,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.glow_stick.orange.name",
             "effectName": "",
             "fullName": "minecraft:glow_stick",
@@ -11929,7 +11929,7 @@
         },
         {
             "aux": 15,
-            "categoryName": "craftingScreen.tab.none",
+            "categoryName": "物品",
             "descriptionName": "item.glow_stick.white.name",
             "effectName": "",
             "fullName": "minecraft:glow_stick",
@@ -15375,6 +15375,16 @@
             "fullName": "minecraft:tnt",
             "id": 46,
             "name": "TNT",
+            "typeName": "minecraft:tnt"
+        },
+        {
+            "aux": 2,
+            "categoryName": "物品",
+            "descriptionName": "tile.underwater_tnt.name",
+            "effectName": "",
+            "fullName": "minecraft:tnt",
+            "id": 46,
+            "name": "tile.underwater_tnt.name",
             "typeName": "minecraft:tnt"
         },
         {
